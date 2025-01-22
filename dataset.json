@@ -1,0 +1,3202 @@
+[
+    {
+        "image_path": "Vdata/ID_201.PNG",
+        "question": "Count how many 7-Eleven locations are there?",
+        "option_count": "4",
+        "options": "1)six\n2) Five\n3) Seven    4) Nine",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_202.PNG",
+        "question": "Count how many FamilyMart locations are there?",
+        "option_count": "4",
+        "options": "1)four\n2) Nine\n3) Seven   4) Six\n",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_203.PNG",
+        "question": "How many parks are shown ?",
+        "option_count": "4",
+        "options": "1)two\n2) Four\n3) Five\n4) Six",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_203.PNG",
+        "question": "How many museum are shown ?",
+        "option_count": "4",
+        "options": "1)Nne\n2) Four 3) Five\n4) Two",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_204.PNG",
+        "question": "I have withdrawn money from Mercantil Bank. Now, how many transit stops are there near me?",
+        "option_count": "4",
+        "options": "1)Four\n2) one\n3) Five\n4) Two",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_205.PNG",
+        "question": "I'm in Ventura joyeria .How many restaurants are there near to me ?",
+        "option_count": "4",
+        "options": "1)Seven\n2)Four\n3)one\n4)Ten",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_206.PNG",
+        "question": "I live in Nommern, Luxembourg. Can you tell me the total number of grocery stores nearby?",
+        "option_count": "4",
+        "options": "1)Seven\n2)Four\n3)Two\n4)Six",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_207.PNG",
+        "question": "Presently I am in this hotel called Radisson Blu Water Garden Hotel, Dhaka . I am feeling very sick how many hospitals around me?",
+        "option_count": "4",
+        "options": "1)Three 2)Four\n3)Five\n4)Six",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_208.PNG",
+        "question": "Based on the symbols and labels, can you identify any hotels in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Three\n3)Four\n4)Five",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_209.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Seven\n2)Three    3)Two\n4)Six",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_210.PNG",
+        "question": " how many mountains are there?",
+        "option_count": "4",
+        "options": "1)eight\n2)Ten \n3)Nine \n4)four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_605.PNG",
+        "question": " how many Hotels are there?",
+        "option_count": "4",
+        "options": "1)eight\n2)Ten \n3)Nine \n4)four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_609.PNG",
+        "question": "\nDetermine the number of Bangladeshi restaurants available.?",
+        "option_count": "4",
+        "options": "1)eight\n2)Ten \n3)Nine \n4)one",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_610.PNG",
+        "question": "How many hotels can you count by looking at hotel or residential signs?\"",
+        "option_count": "4",
+        "options": "1)eight\n2)Ten \n3)Nine \n4)four",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_212.PNG",
+        "question": "Based on the symbols and labels, can you identify any Park  in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Nine\n2)Ten \n3)Fifteen\n4)four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_212.PNG",
+        "question": "\nOnly based on the specific features within the image such as writing indicating a park, can you identify any parks? If so, how many parks are there?",
+        "option_count": "4",
+        "options": "1)Nine\n2)Ten \n3)Fifteen\n4)Eight",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_213.PNG",
+        "question": " how many Park are there?",
+        "option_count": "4",
+        "options": "1)Nine\n2)Fourteen\n3)Fifteen\n4)Sixteen",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_213.PNG",
+        "question": "Based on the symbols and labels, can you identify any Historical landmark in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Five\n2)Ten \n3)Fifteen\n4)four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_214.PNG",
+        "question": "Based on the symbols and labels, can you identify any Public transport like bus stop,train station etc  in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Three\n3)One\n4)four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_215.PNG",
+        "question": " how many School are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Three\n3)One\n4)four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_215.PNG",
+        "question": "Can you identify any mosques or madrasas in the image based on the symbols and labels? If yes, how many of them are present?",
+        "option_count": "4",
+        "options": "1)Two\n2)Three\n3)Five\n4)four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_216.PNG",
+        "question": "How many green symbols are present? These symbols can vary.",
+        "option_count": "4",
+        "options": "1)Two\n2)Three\n3)Five\n4)four",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Based on the symbols and labels, can you identify any Convention center or Community center  in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Ten\n3)Five\n4)Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Ten\n3)Five\n4)Three",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_217.PNG",
+        "question": "Are there any Hotels identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Two\n2)Ten\n3)Five\n4)Three",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": " how many Bank are there?",
+        "option_count": "4",
+        "options": "1)One\n2)Two\n3)Six\n4)Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": " how many Masjid or madrasa are there?",
+        "option_count": "4",
+        "options": "1)One\n2)Two\n3)Five\n4)Three",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_218.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)One\n2)Six\n3)Five\n4)Three",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Market  in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)One\n2)Six\n3)Five\n4)Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Bank in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)Four\n2)Six\n3)Five\n4)Three",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_219.PNG",
+        "question": "Based on the symbols and labels, can you identify any Shop in the image? If so, how many are there?",
+        "option_count": "4",
+        "options": "1)One\n2)Six\n3)Five\n4)Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "Can you spot any restaurants or coffee shops in the image based on the text, symbols, or labels? If yes, how many are there?\"",
+        "option_count": "4",
+        "options": "1.Twelve (12)\n2.Thirteen (13)\n3.Fourteen (14)\n4.Fifteen (15)",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Twelve (12)\n2.Thirteen (13)\n3.Fourteen (14)\n4.Fifteen (15)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing markets can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols and text representing ATM can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_221.PNG",
+        "question": "How many symbols and text representing Hospitals can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_222.PNG",
+        "question": "How many symbols and text representing Theme Park  can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Ten (10)\n2.Nine (9)\n3.Eight (8)\n4.Eleven (11)",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Masque or masjid ? can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_223.PNG",
+        "question": "How many symbols and text representing  Bridge ? can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to schools, colleges, universities, or related institutions in the image? Afterwards, please tally up the total count",
+        "option_count": "4",
+        "options": "1.Ten (10)\n2.Nine (9)\n3.Eight (8)\n4.Seven(7)",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_224.PNG",
+        "question": "Could you identify the symbols and textual components linked to Hospitals  in the image? Afterwards, please tally up the total count",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.One(1)\n3.Four (4)\n4.Five (5)",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_225.PNG",
+        "question": "Could you identify the symbols and textual components linked to Park , Historical landmark in the image? Afterwards, please tally up the total count",
+        "option_count": "4",
+        "options": "1.Seven(7)\n2.Nine (9)\n3.Eight (8)\n4.Ten (10)",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_225.PNG",
+        "question": "Are there any religious establishments identifiable in the image through text, symbols, or labels? If so, how many are there?",
+        "option_count": "4",
+        "options": "1.Seven(7)\n2.Nine (9)\n3.Eight (8)\n4.Ten (10)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_226.PNG",
+        "question": "Could you please determine the total number of hospitals present?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_227.PNG",
+        "question": "Could you please determine the total number of Museum present?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_228.PNG",
+        "question": "Could you please determine the total number of hospitals present?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three (3)\n3.Four (4)\n4.Five (5)",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_229.PNG",
+        "question": "Could you please determine the total number of Goverment Office present?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Six(6)\n3.Four (4)\n4.Five (5)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "Could you please determine the total number of historical landmark?",
+        "option_count": "4",
+        "options": "1.Seven(7)\n2.Nine (9)\n3.Eight (8)\n4.Ten (10)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_423.PNG",
+        "question": "Count the number of hotels?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Six(6)\n3.Four (4)\n4.Five (5)",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_220.PNG",
+        "question": "How many symbols representing stores and market can you identify in the image?",
+        "option_count": "4",
+        "options": "1.Twelve (12)\n2.Thirteen (13)\n3.Fourteen (14)\n4.Fifteen (15)",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1001.PNG",
+        "question": "Could you please determine the total number of parking lot?",
+        "option_count": "4",
+        "options": "1.Two (2)\n2.Three(3)\n3.Four (4)\n4.Five (5)",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1002.PNG",
+        "question": "Could you please determine the total number of universities?",
+        "option_count": "4",
+        "options": "1.Seven(7)\n2.Nine (9)\n3.Eight (8)\n4.Ten (10)",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "How many churces are visible in the lower half of the map?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. Four\n4. Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "How many hospitals are there ?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. Four\n4. Three",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1103.PNG",
+        "question": "How many schools or colleges are there in the map?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. Four\n4. Three",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1104.PNG",
+        "question": "How many pharmacies are shown in the image?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. Four\n4. Three",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "How many schools are there in the map?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. One\n4. Three",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "How many mosques are there in the k367 line?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. Six\n4. Four",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "How many churches are there in the left side of the river?",
+        "option_count": "4",
+        "options": "1. One\n2. Two\n3. Six\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "How many hotels are there in the right side of the river?",
+        "option_count": "4",
+        "options": "1. One\n2. Two\n3. Three\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "How many green lands are present in the map?",
+        "option_count": "4",
+        "options": "1. Seven\n2. Twelve\n3. Nine\n4. Fifteen",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "How many hotels have review below 4.5?",
+        "option_count": "4",
+        "options": "1. One\n2. Two\n3. Three\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "How many educational institutes are there in the map?",
+        "option_count": "4",
+        "options": "1. Five\n2. Three\n3. Eight\n4. None",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "How many matro stations ase visible?",
+        "option_count": "4",
+        "options": "1. Five\n2. Three\n3. Eight\n4. None",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1112.PNG",
+        "question": "How many castle are there in the image?",
+        "option_count": "4",
+        "options": "1. Five\n2. Two\n3. One\n4. Three",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "How many bridges are there on Vltava river?",
+        "option_count": "4",
+        "options": "1. Five\n2. Three\n3. Eight\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "How many hotels are there in the left bottom side of the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. Five\n4. Four",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1115.PNG",
+        "question": "How many UNESCO related meuseums are seen in the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. Five\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1116.PNG",
+        "question": "How many hotels are in the right half of the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. Five\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants or clubs are on the bottom side of Linnakatu road?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "How many restaurants are in the Turun Linna caste complex?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "How many hospitals are there ?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "How many establishments are inside airport complex?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1119.PNG",
+        "question": "How many hotels are inside the island?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "How many tourist attarction spots are visual in the image?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "How many restaurants or caf\u00e9 are on the road Cekik - Seririt?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1121.PNG",
+        "question": "How many shopping malls are on the right side of Minskaya st?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "4",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1122.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1123.PNG",
+        "question": "How many stores/malls are on the right side of Cameron St?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1124.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1124.PNG",
+        "question": "How many theatres are seen in the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1125.PNG",
+        "question": "How many hiking points are there?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1126.PNG",
+        "question": "How many restaurants are seen in the map?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. Five\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1127.PNG",
+        "question": "How many beaches are seen in the mp>",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1128.PNG",
+        "question": "How many stores are shown?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1129.PNG",
+        "question": "How many mosques are seen?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "3",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1132.PNG",
+        "question": "How many hotels are in the complex?",
+        "option_count": "4",
+        "options": "1. Two\n2. Three\n3. One\n4. Four",
+        "answer": "1",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_1133.PNG",
+        "question": "How  many meseums are there?",
+        "option_count": "4",
+        "options": "1. Twelve\n2. Fourteen\n3. Eight\n4. Seventeen",
+        "answer": "2",
+        "classification": "counting"
+    },
+    {
+        "image_path": "Vdata/ID_301.PNG",
+        "question": "Is there any Hospital marked with a star symbol on the tourist map of Rome?",
+        "option_count": "4",
+        "options": "1)San Filippo Neri Hospital\n2) Villa Valente\n3) Hotel Relais Castrum Boccea\n4) Il Nido d'Amore - Boutique Roma d'Autore",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_302.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol on the tourist map of Rome?",
+        "option_count": "4",
+        "options": "1)Monumento naturale Caldara di Manziana\n2)Casacoc\u00f2\n3)Orsini-Odescalchi Castle\n4)Bosco Macchia Grande",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_303.PNG",
+        "question": "Is there  any hospitals marked with a red cross symbol on a map of London?",
+        "option_count": "4",
+        "options": "1)Four\n2) Whipps Cross University Hospital\n3)Ibne sina hospital\n4) God's Own Junkyard",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_304.PNG",
+        "question": "Based on the map, are there any Park located near the Great Barrier Reef marked with a green symbol?",
+        "option_count": "4",
+        "options": "1)Pallon Beach\n2)Mission Beach\n3)Granadilla\n4) Mount Mackay National Park",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there Golf Feild marked with green symbol on a map of USA?",
+        "option_count": "4",
+        "options": "1)Fernhill Wetlands\n2)Hillsboro Airport\n3)Forest Hills Golf Course\n4)Pacific University Forest Grove Campus \n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there any University marked with symbol on a map of USA?",
+        "option_count": "4",
+        "options": "1)Fernhill Wetlands\n2)Hillsboro Airport\n3)Forest Hills Golf Course\n4)Pacific University Forest Grove Campus \n",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there any Hotel or Lodge marked with symbol on a map of USA?",
+        "option_count": "4",
+        "options": "1)\nMcMenamins Grand Lodge\n2)Hillsboro Airport\n3)Forest Hills Golf Course\n4)Pacific University Forest Grove Campus \n",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there any  Park marked with symbol on a map which start with \"L\" of USA?",
+        "option_count": "4",
+        "options": "1)Fernhill Wetlands\n2)Hillsboro Airport\n3)Legacy Knoll Neighborhood Park\n4)Pacific University Forest Grove Campus \n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there any Airport  marked with symbol on a map which start with \"L\" of USA?",
+        "option_count": "4",
+        "options": "1)Fernhill Wetlands\n2)Hillsboro Airport\n3)Forest Hills Golf Course\n4)Pacific University Forest Grove Campus \n",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_306.PNG",
+        "question": "Is there  any Costco store  marked with symbol on a map  of USA?",
+        "option_count": "4",
+        "options": "1)Fernhill Wetlands\n2)Hillsboro Airport\n3)Costco Wholesale\n4)Pacific University Forest Grove Campus \n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_308.PNG",
+        "question": "Is there a restaurants depicted in the image? If so, what is the name of this restaurants?",
+        "option_count": "4",
+        "options": "1.ABBA Arena\n2.Barbican Centre\n3.City Spice - Voted Best Indian Restaurant Brick Lane\n4.Whitechapel Gallery\n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_308.PNG",
+        "question": "Is there a Stadium depicted in the image? If so, what is the name of this Stadium?",
+        "option_count": "4",
+        "options": "1.British Stadium\n2.Victoria Park\n3.City Spice - Voted Best Indian Restaurant Brick Lane\n4.London Stadium\n",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_308.PNG",
+        "question": "Does the image portray a Library? If so, what is the name of this library?",
+        "option_count": "4",
+        "options": "1.Camden Market\n2.The British Library\n3.FOLD\n4.London Library\n",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_309.PNG",
+        "question": "What Museum is located just north of Beverly Hills?",
+        "option_count": "4",
+        "options": "1.Greystone Mansion & Gardens: The Doheny Estate\n2.Crypto.com Arena\n3.Museum of Tolerance\n4.Los Angeles County Museum of Art",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_312.PNG",
+        "question": "What is the neighboring bridge to the Tower of London?",
+        "option_count": "4",
+        "options": "1.London bridge\n2.tower bridge\n3.London Tunnel\n4.Tower of London",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_312.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol ?",
+        "option_count": "4",
+        "options": "1.London bridge\n2.tower bridge\n3.Monument to the Great Fire of London\n4.Tower of London",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_313.PNG",
+        "question": "What is the neighboring Museume to the River?",
+        "option_count": "4",
+        "options": "1.Jack The Ripper Museum\n2.Tobacco Dock Ltd\n3.Brunel Museum\n4. St",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_313.PNG",
+        "question": "Is there  any historical landmarks marked with a star symbol ?",
+        "option_count": "4",
+        "options": "1.Jack The Ripper Museum\n2.Tobacco Dock \n3.Brunel Museum\n4. St",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_313.PNG",
+        "question": "What is the neighboring Marina to the River?",
+        "option_count": "4",
+        "options": "1.Jack The Ripper Museum\n2.Tobacco Dock Ltd\n3.Brunel Museum\n4. St",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_314.PNG",
+        "question": "\nWhat is the neighboring Mount to the Northern Country Club Akagi Golf ?",
+        "option_count": "4",
+        "options": "1.Mount Akagi\n2.Mount Haruna\n3.\u8d64\u57ce\u5c71\u30d1\u30ce\u30e9\u30de\u5c55\u671b\u53f0\n4.Akagi south Senbonzakura",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_315.PNG",
+        "question": "Is there any Mountain marked with symbol on a map of USA?",
+        "option_count": "4",
+        "options": "1.\u898b\u6674\u53f0\n2.Asama O-taki (Asama Great Falls)\n3.Kanbara\n4.Asamakakushiyama",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_316.PNG",
+        "question": "Is there an amusement park marked with a symbol? If so, what is its name?",
+        "option_count": "4",
+        "options": "1.Kotakitenmangu\n2.Karuizawa Toy Kingdom\n3.\u68ee\u306e\u30ed\u30b0\u30cf\u30a6\u30b9Mokki\n4.\u5317\u8efd\u4e95\u6ca2\u30cd\u30a4\u30c1\u30e3\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9Central Camp",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_317.PNG",
+        "question": "What is the name of the park located near of  Wanzen\u00f6d?",
+        "option_count": "4",
+        "options": "1.Freizeitpark Behamberg\n2.B\u00fcrstmayrsiedlung\n3.Egisachen\n4.Schloss Lamberg Events",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_317.PNG",
+        "question": "What is the name of the historical landmark in this picture?",
+        "option_count": "4",
+        "options": "1.Freizeitpark Behamberg\n2.B\u00fcrstmayrsiedlung\n3.Museum Arbeitswelt Steyr\n4.Schloss Lamberg Events",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_317.PNG",
+        "question": "What is the name of the historical museum depicted in this picture?",
+        "option_count": "4",
+        "options": "1.Freizeitpark Behamberg\n2.B\u00fcrstmayrsiedlung\n3.Museum Arbeitswelt Steyr\n4.Schloss Lamberg Events",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_318.PNG",
+        "question": "What is the name of the park  in this picture?",
+        "option_count": "4",
+        "options": "1.OliOli\u00ae - A Must-Visit Children's Play Museum\n2.Al Khoory Courtyard\n3.Xstrike\n4.Alserkal Avenue",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_318.PNG",
+        "question": "What is the name of the Cultural landmark in this picture?",
+        "option_count": "4",
+        "options": "1.OliOli\u00ae - A Must-Visit Children's Play Museum\n2.Al Khoory Courtyard\n3.Xstrike\n4.Alserkal Avenue",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_319.PNG",
+        "question": "Is there an Heritage museum marked with a symbol? If so, what is its name?",
+        "option_count": "4",
+        "options": "1.Shadwell falcons\n2.Kameluschi\n3.\u0637\u0648\u064a \u0627\u0644\u0645\u0631\u0647\n4.Al",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_319.PNG",
+        "question": "Is there a historical landmark, marked with a symbol, located near any mosque? If there is, what is the name of the landmark?",
+        "option_count": "4",
+        "options": "1.Shadwell falcons\n2.Kameluschi\n3.\u0637\u0648\u064a \u0627\u0644\u0645\u0631\u0647\n4.Al",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_319.PNG",
+        "question": "Is there a mosque, marked with a symbol? If there is, what is the name of the mosque?",
+        "option_count": "4",
+        "options": "1.Shadwell falcons\n2.Al4.Al",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_319.PNG",
+        "question": "Is there a Tourist attraction, marked with a symbol? If there is, what is the name of the Tourist attraction?",
+        "option_count": "4",
+        "options": "1.Shadwell falcons\n2.Kameluschi\n3.\u0637\u0648\u064a \u0627\u0644\u0645\u0631\u0647\n4.Al",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_320.PNG",
+        "question": "What is the name of the Theme park located on Yas Island?",
+        "option_count": "4",
+        "options": "1.Ferrari World Yas Island, Abu Dhabi\n2.AlBahya Park\n3.Emirates Park \n4.Um AlBasatin Farm",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_320.PNG",
+        "question": "Is there a Campground, marked with a symbol? If there is, what is the name of the Campground?",
+        "option_count": "4",
+        "options": "1.Ferrari World Yas Island, Abu Dhabi\n2.AlBahya Park\n3.Emirates Park \n4.Um",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_320.PNG",
+        "question": "Is there a zoo, marked with a symbol? If there is, what is the name of the zoo?",
+        "option_count": "4",
+        "options": "1.Ferrari World Yas Island, Abu Dhabi\n2.AlBahya Park\n3.Emirates Park \n4.Um",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_320.PNG",
+        "question": "Is there a beach that is identified with a symbol? If so, what is the name of the beach?",
+        "option_count": "4",
+        "options": "1.Ferrari World Yas Island, Abu Dhabi\n2.Bin Safwan\n3.Emirates \n4.Um",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_321.PNG",
+        "question": "Is there a fueling or Gas  station near any restaurant? If so, what is the name of this fueling or gas  station?",
+        "option_count": "4",
+        "options": "1.ADNOC Service Station | Shahama (861)\n2.ADNOC Service Station\n3.Carrefour\n4.\nRamsa ",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_321.PNG",
+        "question": "Is there a restaurant  near any fueling or Gas  station? If so, what is the name of this restaurant ?",
+        "option_count": "4",
+        "options": "1. Nine Star\n2.Zahrat Lebnan - Al Shahama\n3.Spartan Cafe\n4.Ramsa ",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_321.PNG",
+        "question": "Is there a Hospitalnear any fueling or Gas  station? If so, what is the name of this Hospital?",
+        "option_count": "4",
+        "options": "1. Al Bahia Healthcare Center \u0645\u0631\u0643\u0632 \u0627\u0644\u0628\u0627\u0647\u064a\u0629 \u0627\u0644\u0635\u062d\u064a\n2.Zahrat Lebnan - Al Shahama\n3.NMC Royal Medical Center - Shahama\n4.LMC",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_322.PNG",
+        "question": "Is there a Event venue that is identified with a symbol? If so, what is the name of the Event venue ?",
+        "option_count": "4",
+        "options": "1.Kanheri Caves\n2.Gaimukh Jetty\n3.Korakendra Dome 2\n4.Maxus ",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_322.PNG",
+        "question": "Is there a Movie theater that is identified with a symbol? If so, what is the name of the Movie theater ?",
+        "option_count": "4",
+        "options": "1.Kanheri Caves\n2.Gaimukh Jetty\n3.Korakendra Dome 2\n4.Maxus ",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_323.PNG",
+        "question": "Is there a Monument that is identified with a symbol? If so, what is the name of the Monument ?",
+        "option_count": "4",
+        "options": "1.\nNewport Centre\n2.Liberty Science Center\n3.Empty Sky Memorial\n4.Barclays Center",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_323.PNG",
+        "question": "Is there a Arena that is identified with a symbol? If so, what is the name of the Arena?",
+        "option_count": "4",
+        "options": "1.\nNewport Centre\n2.Liberty Science Center\n3.Empty Sky Memorial\n4.Barclays Center",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_324.PNG",
+        "question": "Is there a Live music venue that is identified with a symbol? If so, what is the name of the Live music venue?",
+        "option_count": "4",
+        "options": "1.Avant Gardner\n2.Elsewhere\n3.Urban Jungle\n4.Knockdown Center",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_324.PNG",
+        "question": "Is there a Art center that is identified with a symbol? If so, what is the name of the Art center?",
+        "option_count": "4",
+        "options": "1.Avant Gardner\n2.Elsewhere\n3.Urban Jungle\n4.Knockdown Center",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1003.PNG",
+        "question": "Is there a university marked with a symbol? If so, what is the name of the university?",
+        "option_count": "4",
+        "options": "1)Summer Palace\n2)Shi Qi Kong Qiao\n3)Peking University\n4)\u5317\u4eac\u5927\u5b66\u90b1\u5fb7\u62d4\u4f53\u80b2\u9986",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1003.PNG",
+        "question": "Is there a Cultural landmark marked with a symbol? If so, what is the name of the Cultural landmark?",
+        "option_count": "4",
+        "options": "1)Summer Palace\n2)Shi Qi Kong Qiao\n3)Peking University\n4)\u5317\u4eac\u5927\u5b66\u90b1\u5fb7\u62d4\u4f53\u80b2\u9986",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_507.PNG",
+        "question": "I work at H.O.PERSIEHL WANFRIED GmbH & Co. KG and I'm staying at Ferienwohnung Bedroo - Am historischen Hafen Wanfried. My work ends at 4 pm today, and I'm considering having pizza for dinner. Could you recommend a restaurant?",
+        "option_count": "4",
+        "options": "1.Hafengastst\u00e4tte Zur Schlagd\n2.B\u00e4ckerei Wolf oHG\n3.Christinchen\n4.Pizzeria Gina",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_507.PNG",
+        "question": "I work at H.O.PERSIEHL WANFRIED GmbH & Co. KG and I'm staying at Ferienwohnung Bedroo - Am historischen Hafen Wanfried. My work ends at 4 pm today, and I'm considering having coffee for evening. Could you recommend a restaurant?",
+        "option_count": "4",
+        "options": "1.Hafengastst\u00e4tte Zur Schlagd\n2.B\u00e4ckerei Wolf oHG\n3.Christinchen\n4.Pizzeria Gina",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_560.PNG",
+        "question": "I am a student living in Comilla\u2019s Kandirpar area. I need a quiet place to study and \nI\u2019m looking for a library on this way. Can you help me find one?",
+        "option_count": "4",
+        "options": "1)\u09ac\u09c0\u09b0 \u09ae\u09c1\u0995\u09cd\u09a4\u09bf\u09af\u09cb\u09a6\u09cd\u09a7\u09be \u09ae\u09be\u09b7\u09cd\u099f\u09be\u09b0 \u09a4\u09c8\u09df\u09ac\n \u0986\u09b2\u09c0 \u09b8\u09cd\u09ae\u09c3\u09a4\u09bf \u0997\u09cd\u09b0\u09a8\u09cd\u09a5\u09be\u0997\u09be\u09b0\n2)\u09ad\u0995\u09cd\u09a4\u09bf \u09ac\u09bf\u09a8\u09a6 \u09a0\u09be\u0995\u09c1\u09b0 \u09b2\u09be\u0987\u09ac\u09cd\u09b0\u09c7\u09b0\u09bf,\n \u09a4\u09cd\u09b0\u09bf\u09ac\u09c7\u09a3\u09c0 \u09ad\u09ac\u09a3\n3)Birchandra Gana-Pathagar\n O Nogor Milonayaton\n4)\u09ac\u09b8\u09a8\u09cd\u09a4 \u09b8\u09c3\u09a4\u09bf \u09aa\u09be\u09a0\u09be\u0997\u09be\u09b0",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_561.PNG",
+        "question": "I\u2019m planning a trip to Rangpur. Can you recommend a good hotel where i can stay\n two or three days in station bazar area , Rangpur.",
+        "option_count": "4",
+        "options": "1)SKY LAWN Hotel & Restaurant\n2)\u09b2\u09bf\u099f\u09b2 \u09b0\u0982\u09aa\u09c1\u09b0 \u0987\u09a8\n3)Sky View Hotel\n4)Grand Palace Hotel",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_562.PNG",
+        "question": "I\u2019m in Gazipur Tongi area and I need to know where the  hospital is in case of an emergency.\n Can you provide me with some options?",
+        "option_count": "4",
+        "options": "1)Bangladesh Institute of \nHealth Science Hospital,\n Tongi, Gazipur\n2)International Medical \nCollege & Hospital\n3)Asia General Hospital\n4)Dhaka Imperial Hospital",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_563.PNG",
+        "question": "I am planning to have dinner with friends in the Sonadanga area of Khulna. We love Chinese\nfood. Can you recommend a popular Chinese restaurant in this area?\n",
+        "option_count": "4",
+        "options": "1)Dhaba 2 Khulna.\n2)Tugh lifee\n3)\u0997\u09be\u099c\u09c0 \u09b0\u09c7\u09b8\u09cd\u09a4\u09cb\u09b0\u09be\u0981\n4)Hungry Foodies",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_568.PNG",
+        "question": "I\u2019m planning a wedding and currently in the Dhanmondi area of Dhaka. Can you suggest a \nbeautiful and well-equipped wedding venue  that can accommodate a large number \nof guests?",
+        "option_count": "4",
+        "options": "1)Gulshan Shooting Club (Convention Hall)\n2)Ananda Bhaban Community Center\n3)Celebrity Convention Center\n4)Emmanuelle's Convention Center",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_570.PNG",
+        "question": "I\u2019m in Narayanganj\u2019s Siddhirganj area, known for its textile industry. Can you guide me to\n a shop where I can purchase high-quality fabrics and traditional clothing?",
+        "option_count": "4",
+        "options": "1)DHAKA TEXTILE MILLS\n2)Moon Knitwear & Composite Dyeing\n3)Narayanganj Garments\n4)S.M. TEXTILE",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_571.PNG",
+        "question": "I\u2019m planning a trip to Cox\u2019s Bazar and I want to stay at a beach resort that offers activities \nlike surfing and beach volleyball. Can you suggest a top-rated resort?",
+        "option_count": "4",
+        "options": "1)Sayeman Beach Resort \n 2)Shahjadi resort\n 3)Neeshorgo Hotel & Resort Ltd. \n 4)Sonadia Campfire Resort",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_574.PNG",
+        "question": "I\u2019ve recently moved to Narayanganj\u2019s Chashara area and I want to find a good gym that has modern equipment and \nfitness classes. Any suggestions?",
+        "option_count": "4",
+        "options": " 1)Hard Knock's Gym Narayanganj\n 2)Parker fitness studio \n 3)The Cross Fit Narayanganj \n 4)POWER HOUSE GYM Narayanganj  ",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_575.PNG",
+        "question": "I am in Rajshahi\u2019s New Market area and looking for a cozy coffee shop where I can spend\n a few hours working on my laptop. Any recommendations?",
+        "option_count": "4",
+        "options": "1)Take Way Cafe\n2)The Hideout Cafe\n3)Hungry Heroes\n4)The Corridor Cafe",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_580.PNG",
+        "question": "I will be visitng Switzerland from Dhaka on upcoming 27th May. I have bought the ticket in turkish airlines. During the transit time at Istambul I want to test the best food in Istambul Airport. Suggest me the best restaurant",
+        "option_count": "4",
+        "options": "1. Slim Chickens\n2. Saltbae Burger Istambul Airport\n3. Turkish Cuisine\n4. Food Court GIA",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_581.PNG",
+        "question": "I want to book the chipest hotel in Geneva near the ITU office. Suggest me the cheapest one.",
+        "option_count": "4",
+        "options": "1. City Hostel Geneva\n2. Hotel Mon Repos\n3. Hotel Eden Geneve\n4. Ibis Centres Geneva nations",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_583.PNG",
+        "question": "I'm currently watching a movie at Sainik Club Cinema Hall, which ends at 11:05 PM. Afterward, I'll have dinner before heading home. My favorite food is roasted meat dishes from the Middle East. Can you suggest a good restaurant?",
+        "option_count": "4",
+        "options": "1.\nThe Garden Kitchen at Sheraton Dhaka\n2.Tempt-Asia Restaurant\n3.Kasundi Restaurant\n4.Star Kabab & Restaurant\n",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_625.PNG",
+        "question": "I want to book a hotel named \"Nagarkot Trekkers Inn Homestay\" on Booking.com. How much will it cost for two nigh in BDT?",
+        "option_count": "4",
+        "options": "1)2686\n2)2868\n3)5736\n4)5673",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_601.PNG",
+        "question": "\nRecommend a park or garden that is in close proximity to a well-known landmark.",
+        "option_count": "4",
+        "options": "1.Paradise Park\n2.Maharaja jawahar Singh park\n3.Shahjahan Garden\n4.Taj Garden",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_602.PNG",
+        "question": "What is the rating of Sushi Atsumi?",
+        "option_count": "4",
+        "options": "1)3.5\n2)4.5\n3)4.6\n4)4.8",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_602.PNG",
+        "question": "Does Sushi Atsumi  offer delivery?",
+        "option_count": "4",
+        "options": "1)No delivery\n2)Yes Delivery\n3)Some times Delivery\n4) Cafe & Resturent",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_602.PNG",
+        "question": "Does Cafe Restaurant Brasserie Koo offer delivery ?",
+        "option_count": "4",
+        "options": "1)Yes Delivery\n2) No delivery \n3)Some times Delivery\n4) Cafe & Resturent",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_602.PNG",
+        "question": "\n\"Provide me with a list of restaurants with a Exact rating of 4.7 ?",
+        "option_count": "4",
+        "options": "1)Sushi Hinominami\n2) Cafe Restaurant Brasserie Koo\n3)cafe & restaurant \uff41\uff12\uff14\n4) Le vent",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_602.PNG",
+        "question": "What are the hours of operation for Sushi Atsumi(?",
+        "option_count": "4",
+        "options": "1)Currently open, closing at 9 PM\n2)Currently open, closing at 8 PM\n3)Currently close, opening at 9 PM.\n4)Currently open, closing at 6 PM.\n\n\n\n\n\n\n\n.\n\n\n\n\n\n.\n\n\n\n\n",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_603.PNG",
+        "question": "\"I am currently at Exposition Park, and I'm interested in visiting a museum. What is  the highest-rated museum nearby?\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)USC Fisher Museum of Art\n2)Figueroa Philly Cheese Steak\n3)Natural History Museum of Los Angeles County\n4)Hancock Memorial Museum\n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_603.PNG",
+        "question": "\"I am currently at Exposition Park, and I'm interested in visiting a museum at 8 am . What is  the highest-rated museum nearby?\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)USC Fisher Museum of Art\n2)Figueroa Philly Cheese Steak\n3)Natural History Museum of Los Angeles County\n4)Hancock Memorial Museum\n",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_603.PNG",
+        "question": "\"I am currently at Exposition Park, and I'm interested in visiting a museum. What is  the highest-rated and nearest museum ?\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)USC Fisher Museum of Art\n2)Figueroa Philly Cheese Steak\n3)Natural History Museum of Los Angeles County\n4)Hancock Memorial Museum\n",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_604.PNG",
+        "question": "I'm at JBS Grand Sultan, feeling unwell, and need some medicine. What is a nearby pharmacy with a good rating that is open?",
+        "option_count": "4",
+        "options": "1.United hospital pharmacy\n2.Prescription Aid Pharmacy\n3.Vatara\n4.Tamanna Pharmacy",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_604.PNG",
+        "question": "I'm at Baridhara K Block, feeling unwell, and need some medicine. What is a nearby pharmacy with a good rating that is open?",
+        "option_count": "4",
+        "options": "1.United hospital pharmacy\n2.Prescription Aid Pharmacy\n3.Vatara\n4.Tamanna Pharmacy",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_605.PNG",
+        "question": "I am currently at Uttara Sector 3 Playground. What is the most budget-friendly 3-star hotel nearby?",
+        "option_count": "4",
+        "options": "1)Hotel Heaven Inn Ltd.\n2)Garden Residents Uttara - Lake View\n3)HOTEL BLUE BIRD/\u09b9\u09cb\u099f\u09c7\u09b2 \u09ac\u09cd\u09b2\u09c1-\u09ac\u09be\u09b0\u09cd\u09a1\n4)\u09b8\u09bf \u09b6\u09c7\u09b2 \u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u09b8 / Sea Shell Residence",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_605.PNG",
+        "question": "I am currently at Uttara Sector 3 Playground. What is the highest-rated 3-star hotel nearby?",
+        "option_count": "4",
+        "options": "1)Hotel Heaven Inn Ltd.\n2)Garden Residents Uttara - Lake View\n3)HOTEL BLUE BIRD/\u09b9\u09cb\u099f\u09c7\u09b2 \u09ac\u09cd\u09b2\u09c1-\u09ac\u09be\u09b0\u09cd\u09a1\n4)\u09b8\u09bf \u09b6\u09c7\u09b2 \u09b0\u09c7\u09b8\u09bf\u09a1\u09c7\u09a8\u09cd\u09b8 / Sea Shell Residence",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_606.PNG",
+        "question": "I work at BNS Center, and I need to arrange accommodation for a client for one night. My budget is between 2000-2500 BDT. Could you recommend a suitable hotel  or house?\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)Hotel Royal Blue Residence\n2)Taz Garden House\n3)Western Planet Hotel\n4)Hotel Milina Ltd & Shirasagi Restaurant Uttara",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_607.PNG",
+        "question": "At 12:14 am, I'm seeking a tourist spot with good ratings where I can pray as a Muslim and enjoy exploring. What's the best-rated place?\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)Gulshan Lake Park\n2)Khan Mohammad Mridha Masjid\n3)Gulshan Central Masjid\n4)Chawkbazar Shahi Jame Masjid",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_608.PNG",
+        "question": "What are the opening hours of Kingdom Center Sky Bridge?",
+        "option_count": "4",
+        "options": "1)9am\n2)10pm\n3)12am\n4)12pm",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_608.PNG",
+        "question": "What are the opening hours of I \ufe0fRiyadh?",
+        "option_count": "4",
+        "options": "1)9am\n2)Any time\n3)12am\n4)12pm",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_609.PNG",
+        "question": "It's 12:55 PM, and I'm hungry, planning to eat at 2 PM. What is the well-rated restaurant?",
+        "option_count": "4",
+        "options": "1)Indian restaurant\n2)NOZOMI Riyadh\n3)The View Restaurant\n4)Bangladesh Restaurant",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_609.PNG",
+        "question": "Hungry at 12:55 PM, but I'll eat at 2 PM. Any suggestions for top-rated restaurants? Also, I'm a fan of Indian cuisine.",
+        "option_count": "4",
+        "options": "1)Indian restaurant\n2)NOZOMI Riyadh\n3)The View Restaurant\n4)Bangladesh Restaurant",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_610.PNG",
+        "question": "Which 2-star hotel tends to receive the most reviews from users?\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)Tropics Hotel and Hostel\n2)Aqua Hotel\n3)Collins Avenue Hostel\n4)Courtyard by Marriott Miami Beach South Beach",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_611.PNG",
+        "question": "What is the highest-rated five-star hotel?",
+        "option_count": "4",
+        "options": "1.Century Hotel Doha\n2.Fraser Suites Doha\n3.DoubleTree by Hilton Doha - Old Town\n4.Shaza Doha",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_611.PNG",
+        "question": "What is the highest-rated five-star hotel?",
+        "option_count": "4",
+        "options": "1.Century Hotel Doha\n2.\u0641\u0646\u062f\u0642 \u0647\u0648\u0631\u0627\u064a\u0632\u0648\u0646 \u0645\u0627\u0646\u0648\u0631\n3.Golden Ocean Hotel\n4.Plaza Inn Hotel",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_612.PNG",
+        "question": "What is the most attractive, highly rated, and most reviewed tourist attraction in this picture?",
+        "option_count": "5",
+        "options": "1.Museum of Islamic Art\n2.Doha Skyline Viewpoint\n3.\u0633\u0648\u0642 \u0648\u0627\u0642\u0641 \u0644\u0644\u0641\u0646\u0648\u0646\n4.The Pearl Monument\n5.Msheireb Museums",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_613.PNG",
+        "question": "What is the highest-rated Buddhist temple?",
+        "option_count": "4",
+        "options": "1.Khomling Lhakhang\n2.Gangyoe Community Temple\n3.Moenlham Chenmo Pavilion\u0f66\u0fa8\u0f7c\u0f53\u0f0b\u0f63\u0f58\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f58\u0f7c\u0f0b\u0f50\u0f44\u0f0b\u0f0d\n4.Damche Lhakhang",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_614.PNG",
+        "question": "What's the current temperature in Celsius in Abha, Saudi Arabia?",
+        "option_count": "4",
+        "options": "1)40\u00b0C\n2)10\u00b0C\n3)20\u00b0C\n4)22\u00b0C",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_615.PNG",
+        "question": "What is the 'Soudah 360\u00b0 Viewpoint' like?",
+        "option_count": "4",
+        "options": "1)Tourist attraction\n2)Landmark\n3)park\n4)Hospital",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_616.PNG",
+        "question": "Where is Narayana Hospital, Chunavati, located in Kolkata?",
+        "option_count": "4",
+        "options": "1)East Bengal\n2)South Bengal\n3)NorthBengal\n4)West Bengal",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_617.PNG",
+        "question": "What type of institution is the Indian Institute of Management Calcutta?",
+        "option_count": "4",
+        "options": "1)Management Institute\n2)Business school\n3)Private school\n4)public  school",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_618.PNG",
+        "question": "What are the last two digits of the Salem Airport phone number?",
+        "option_count": "4",
+        "options": "1)60\n2)50\n3)65\n4)80",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_618.PNG",
+        "question": "What type of airport is Salem Airport?",
+        "option_count": "4",
+        "options": "1)Major Hub Airports\n2)domestic airport\n3)Regional Airports:\n4)Local Airports:",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_619.PNG",
+        "question": "When does the Punjab University Examination Centre at Quaid-e-Azam Campus open?",
+        "option_count": "4",
+        "options": "1)8am\n2)7pm\n3)7am\n4)8pm",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_619.PNG",
+        "question": "What are the last two digits of the unjab University Examination Centre at Quaid-e-Azam Campus phone number?",
+        "option_count": "4",
+        "options": "1)66\n2)55\n3)92\n4)99",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_620.PNG",
+        "question": "Which restaurants offer delivery without requiring a contract?",
+        "option_count": "4",
+        "options": "1)Muhammad Ali BBQ Family Restaurant\n2)Tabrezian restaurant\n3)Zaiqa Restaurant and baryani house\n4)Salman\u2019s Home kitchen",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_620.PNG",
+        "question": "Which restaurant is located at shop number 660 in the market?",
+        "option_count": "4",
+        "options": "1)Muhammad Ali BBQ Family Restaurant\n2)Salman\u2019s Home kitchen\n3)Zaiqa Restaurant and baryani house\n4)Tabrezian restaurant",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_621.PNG",
+        "question": "which ATM is now closed?",
+        "option_count": "4",
+        "options": "1)HBL ATM\n2)National Bank Atm\n3)NBP ATM\n4)HBL Bank & ATM",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_621.PNG",
+        "question": "Which ATM has a one-star rating?",
+        "option_count": "4",
+        "options": "1)HBL ATM\n2)National Bank Atm\n3)NBP ATM\n4)HBL Bank & ATM",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_622.PNG",
+        "question": "Which ATM has a three-and-a-half-star rating?",
+        "option_count": "4",
+        "options": "1)Cecil by Pearl Continental Hotels & Resorts\n2)Murree Hotels Murree\n3)Kings Hotel Murre\n4)TANVEER HOTEL",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_622.PNG",
+        "question": "Which ATM has four-star rating?",
+        "option_count": "4",
+        "options": "1)Cecil by Pearl Continental Hotels & Resorts\n2)Murree Hotels Murree\n3)Kings Hotel Murre\n4)TANVEER HOTEL",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_622.PNG",
+        "question": "Which ATM has a four-star rating and is the most reviewed by others?",
+        "option_count": "4",
+        "options": "1)Cecil by Pearl Continental Hotels & Resorts\n2)Murree Hotels Murree\n3)Kings Hotel Murre\n4)TANVEER HOTEL",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_622.PNG",
+        "question": "How many reviews have been given for Murree Hotels and Murree restaurants?",
+        "option_count": "4",
+        "options": "1)Cecil by Pearl Continental Hotels & Resorts\n2)8151\n3)8153\n4)8152",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_623.PNG",
+        "question": "Can I bring my dog to Jigme Dorji National Park?",
+        "option_count": "4",
+        "options": "1)Dogs allowed\n2)Dogs not welcome\n3)Dogs welcome\n4)pets allowed",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_624.PNG",
+        "question": "How long does Nagarkot Waterfall remain open on monday?",
+        "option_count": "4",
+        "options": "1) Open 24 hours\n2)Open 14 hours\n3)Open 42hours\n4)Open 4 hours",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_625.PNG",
+        "question": "I want to book a hotel named \"Nagarkot Trekkers Inn Homestay\" on Booking.com. How much will it cost for one nigh in BDT?",
+        "option_count": "4",
+        "options": "1)2686\n2)2868\n3)2688\n4)2886",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_626.PNG",
+        "question": "Which hotel is rated three stars?",
+        "option_count": "4",
+        "options": "1)Gothic Rave Bar\n2)Xoxo Lounge and Bar\n3)Hotel Country Villa\n4)Triple-Double Lounge & Bar",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_626.PNG",
+        "question": "Which restaurant provides free breakfast?",
+        "option_count": "4",
+        "options": "1)Gothic Rave Bar\n2)Xoxo Lounge and Bar\n3)Hotel Country Villa\n4)Triple-Double Lounge & Bar",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_629.PNG",
+        "question": "I need to withdraw money from an ATM or Bank. Which ones are open right now?",
+        "option_count": "4",
+        "options": "1)HBL\n2)Meezan Bank - Rawalakot Branch\n3)Askari Bank\n4)MCB",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_630.PNG",
+        "question": "Which tourist attractions offer a water park with rides?",
+        "option_count": "4",
+        "options": "1)Sangrela Natural Water Park and Hotel\n2)Toli Peer\n3)Nergola Waterfall \u0646\u0691\u06af\u0648\u0644\u06c1 \u0622\u0628\u0634\u0627\u0631 \u0631\u0627\u0648\u0644\u0627\u06a9\u0648\u0679\n4)New Sozo Adventure Park Murree Pakistan",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_630.PNG",
+        "question": "Which tourist attractions have the highest reviews?",
+        "option_count": "4",
+        "options": "1)Sangrela Natural Water Park and Hotel\n2)Toli Peer\n3)Nergola Waterfall \u0646\u0691\u06af\u0648\u0644\u06c1 \u0622\u0628\u0634\u0627\u0631 \u0631\u0627\u0648\u0644\u0627\u06a9\u0648\u0679\n4)New Sozo Adventure Park Murree Pakistan",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_598.PNG",
+        "question": "I am going to see the new born baby of my friend at Square Hospital from Agargaon. From the path way I want to buy some baby dressess. Suggest me a baby shop. ",
+        "option_count": "4",
+        "options": "1. Kids and Moms\n2. Faviana Fashion\n3. Baby Club\n4. Mom & Baby Shop",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "Which cemetaty is the image?",
+        "option_count": "4",
+        "options": "1. Gustaf Vasa Church\n2. Radmansgatan\n3. St Johannes\n4. Crafoord Place",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "What is the name of the wine store?",
+        "option_count": "4",
+        "options": "1. Uhrskov Vinhadel\n2. Bravo\n3. F\u00e6llesBo\n4. Herning Kirke",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1104.PNG",
+        "question": "Whats the name of the medical center ?",
+        "option_count": "4",
+        "options": "1. \u0635\u064a\u062f\u0644\u064a\u0629 \u0627\u0644\u0645\u0642\u0637\u0645\n2. \u0645\u0631\u0643\u0632 \u0627\u0644\u062d\u0645\u062f \u0627\u0644\u0637\u0628\u0649\n3.\u0635\u064a\u062f\u0644\u064a\u0629 \u0627\u0644\u062f\u0643\u062a\u0648\u0631\u0639\u0627\u062f\u0644 \u0643\u0631\u064a\u0645\n4. \u0645\u062f\u0631\u0633\u0629 \u062f/\u0627\u0628\u0648\u0630\u0631 \u0627\u0644\u0643\u0648\u062f\u0629",
+        "answer": "2",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "Whats the name of the building near Macaulay St and the Green area?",
+        "option_count": "4",
+        "options": "1. Cole Street Guesthouse\n2. Comfort Lodge\n3. Seabird Water Taxi\n4. Sierra Leone Grammar School",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "Which restaurant is located between Andr\u00e1ssy \u00fat and Kir\u00e1ly u.?",
+        "option_count": "4",
+        "options": "1. Hungarikum Bisztr\u00f3\n2. Gozsdu Court\n3. Menza \u00c9tterem \u00e9s K\u00e1v\u00e9h\u00e1z\n4. Mazel Tov",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "Whats the largest park shown in the map?",
+        "option_count": "4",
+        "options": "1. Klauz\u00e1l t\u00e9r\n2. Fiumei \u00fati s\u00edrkert\n3. Menza \u00c9tterem \u00e9s K\u00e1v\u00e9h\u00e1z\n4. Szabads\u00e1g t\u00e9r",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "Whats the name of the 3.7 star rating hotel?",
+        "option_count": "4",
+        "options": "1. Hotel Gakyidiana\n2. Pema Yangsel Hotel\n3. Paro Penlop Dawa Penjor\n4. Pelri Cottages",
+        "answer": "4",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "Which hotel has the maximum number of reviews shown in the map?",
+        "option_count": "4",
+        "options": "1. Hotel Khamsum(418)\n2. Pema Yangsel Hotel(76)\n3. Paro Penlop Dawa Penjor(543)\n4. Pelri Cottages(78)",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "Which hotel is on the left side of ht Vltava river?",
+        "option_count": "4",
+        "options": "1. Narondni trida\n2. The Julius Prague\n3. Mandarin Oriental \n4. Prazsky hrad",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "At what park Pet\u0159\u00ednsk\u00e1 rozhledna is situated?",
+        "option_count": "4",
+        "options": "1. Mala Strana\n2. Kinsk\u00e9ho zahrada\n3. Pet\u0159\u00ednsk\u00e9 sady\n4. Lumbeho zahrada",
+        "answer": "3",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "What is the name of the river?",
+        "option_count": "4",
+        "options": "1. Buffels River\n2. Pringle River\n3. Amazon River\n4. Casper River",
+        "answer": "1",
+        "classification": "poi"
+    },
+    {
+        "image_path": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at SpringHill Suites by Marriott Portland Hillsboro. Can you recommend the nearest restaurant to my location?\"",
+        "option_count": "4",
+        "options": "1)Copper River Restaurant & Bar\n2)BJ's Restaurant & Brewhouse\n3)Mr. Bento Burger\n4)Best Buy in Town Landscape Supply\n",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_401.PNG",
+        "question": "\"I stayed at Cortland Village Apartment Homes. Can you recommend the nearest restaurant to my location?\"",
+        "option_count": "4",
+        "options": "1)Copper River Restaurant & Bar\n2)BJ's Restaurant & Brewhouse\n3)Mr. Bento Burger\n4)Best Buy in Town Landscape Supply\n",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_402.PNG",
+        "question": " \"I'm a student at McMenamins Kennedy School and I'm looking for the nearest park. Any suggestions?\"",
+        "option_count": "4",
+        "options": "1)Irving Park\n2)Wilshire Park\n3)Rose City Golf Course\n4)Luuwit View Park\n",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_403.PNG",
+        "question": "I live on Al Hikma St. in Doha. Can you recommend the nearest 4-star hotel?",
+        "option_count": "4",
+        "options": "1)The Royal Riviera Hotel Qatar2)\n2)\u0641\u0646\u062f\u0642 \u0647\u0648\u0631\u0627\u064a\u0632\u0648\u0646 \u0645\u0627\u0646\u0648\u0631\n3)Best Western Plus Doha\n4)Shaza Doha\n",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_404.PNG",
+        "question": "I  am currently a student at American Academy School, and my friend is not feeling well. Can you suggest a nearby hospital for them?",
+        "option_count": "4",
+        "options": "1)Al Thumama Stadium\n2)Workers Health Center Mesaimeer - Qatar Red Crescent\n3)Aman Hospital\n4)Al Thumama Health Center\n",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_405.PNG",
+        "question": "\"I am currently employed at Al Hiba Pharmacy, and it's evening. I would like to go for a cup of tea. Can you recommend the nearest restaurant to my workplace?",
+        "option_count": "4",
+        "options": "1)Bab Al Mandi Restaurant\n2)\u0645\u0637\u0639\u0645 \u0647\u0644 \u0627\u0644\u062f\u0627\u0631\n3)Tea Time Karthiyath\n4)Grand Hypermarket",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_406.PNG",
+        "question": "I am currently at Green Road Government Staff Quarter. and my uncle getting brain stock .what hospital are near to me",
+        "option_count": "4",
+        "options": "1)BRB Hospitals\n2)Bangladesh Colorectal and Gastroenterology Centre\n3)Square Hospital\n4)Green Life Medical College Hospital",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_407.PNG",
+        "question": " I am in the car, and my current location is Ras Abu Abboud Expressway. I want to go to the airport. Which airport is nearest to me?",
+        "option_count": "4",
+        "options": "1)Doha International Airport (DIA)\n2)Hamad International Airport\n3)VFS Global Visa Application Centres\n4)The Orchard",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_408.PNG",
+        "question": "What is the nearest any Museum from Qatar Flagpole ?",
+        "option_count": "4",
+        "options": "1)Car Museum \n2)Sheikh Abdulla bin Jassim Al-Thani Palace\n3)National Museum of Qatar Playgrounds\n4)National Museum of Qatar",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_409.PNG",
+        "question": "What is the closest doctor's office to me? I am a student at Mittelschule GTS Ennsleite.",
+        "option_count": "4",
+        "options": "1.DI Mag. DDDr. Constantin Gegenhuber\n2.Diaetologie Eberharter\n3.Ordination Dr. Sabine Hackl\n4.Parkhotel Styria Steyr",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_409.PNG",
+        "question": "What is the closest hotel to me? I am a student at Mittelschule GTS Ennsleite.",
+        "option_count": "4",
+        "options": "1.DI Mag. DDDr. Constantin Gegenhuber\n2.Diaetologie Eberharter\n3.Ordination Dr. Sabine Hackl\n4.Parkhotel Styria Steyr",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_410.PNG",
+        "question": "I'm currently located at The Old Vic and aiming to reach Big Ben. Which bridge would be the nearest for me to cross the river?",
+        "option_count": "4",
+        "options": "1.Westminster Bridge\n2.Hungerford Bridge and Golden Jubilee Bridges\n3.Waterloo\n4.Waterloo East",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_411.PNG",
+        "question": "My current location is Patuli Jheel Park.What are the nearest hospital from my current location?",
+        "option_count": "4",
+        "options": "1.Ruby General Hospital\n2.Narayana Hospital - RN Tagore Hospital, Mukundapur\n3.Narayana Hospital, Chunavati\n4.Peerless Hospital",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_412.PNG",
+        "question": "I reside in Jaipur. What are the nearest educational institutions to my location?",
+        "option_count": "4",
+        "options": "1.\nAdamas University\n2.\nDelhi World Public School - Barasat\n3.\nBarasat College\n4.\nWEST BENGAL STATE UNIVERSITY (WBSU)\n5.\nElite Institute of Engineering & Management\n6.\nBrainware University",
+        "answer": "6",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_413.PNG",
+        "question": "I am employed at the James J. Peters Department of Veterans Affairs Medical Center. What are the closest educational institutions near my workplace?",
+        "option_count": "4",
+        "options": "1.Fordham Preparatory School\n2.Academy of Mount St. Ursula\n3.Fordham University\n4.Bronx Community College\n5.Monroe College",
+        "answer": "5",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_413.PNG",
+        "question": "I am employed at the Burlington. What are the closest educational institutions near my workplace?",
+        "option_count": "5",
+        "options": "1.Fordham Preparatory School\n2.Academy of Mount St. Ursula\n3.Fordham University\n4.Bronx Community College\n5.Monroe College",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting Maison William Caldwell Cottingham. Could you please inform me about the nearby educational institutions?",
+        "option_count": "5",
+        "options": "1.McGill University - Faculty of Medicine\n2.McIntyre Medical Science Building - Lower Entrance\n3.Cimeti\u00e8re Notre-Dame des neiges\n4.Poste de cavalerie du Service de police de la Ville de Montr\u00e9al",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting McIntyre Medical Science Building - Lower Entrance. Could you please inform me about the nearby historical landmark?",
+        "option_count": "4",
+        "options": "1.Circle Stone\n2.secret pool\n3.Maison William Caldwell Cottingham\n4.Poste de cavalerie du Service de police de la Ville de Montr\u00e9al",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_415.PNG",
+        "question": "I am presently visiting  Mount Royal Park . Could you please inform me about the nearby historical landmark?",
+        "option_count": "4",
+        "options": "1.Circle Stone\n2.secret pool\n3.Maison William Caldwell Cottingham\n4.Poste de cavalerie du Service de police de la Ville de Montr\u00e9al",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_416.PNG",
+        "question": "I am currently at Rue Peel Steps. Could you please inform me about the nearest hotel to my location?",
+        "option_count": "4",
+        "options": "1.Sofitel Montreal Golden Mile\n2.Delta Hotels by Marriott Montreal\n3.Hilton Garden Inn Montreal Centre-Ville\n4.Hotel Omni Mont-Royal",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_417.PNG",
+        "question": "I am at the  Jean Talon Hospital. What are the closest resturent  near my workplace?",
+        "option_count": "2",
+        "options": "1.Le Super Qualit\u00e9\n2.La",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_418.PNG",
+        "question": "I am currently at the Baseball Diamond. What is the closest pharmacy to my location?",
+        "option_count": "4",
+        "options": "1.Paylan Yetvart Pharmaciens\n2.Pharmacie Arslanian\n3.Medzy\n4.PJC Jean Coutu Sant\u00e9",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_418.PNG",
+        "question": "I am currently at the BCentre de transport STM Legendre. What is the closest pharmacy to my location?",
+        "option_count": "4",
+        "options": "1.Paylan Yetvart Pharmaciens\n2.Pharmacie Arslanian\n3.Medzy\n4.PJC Jean Coutu Sant\u00e9",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Centre Duvernay. What is the closest coffee shop or restaurant to my location?",
+        "option_count": "5",
+        "options": "1.Cora Breakfast and Lunch\n2.Taglio di Roma\n3.Tutti Frutti d\u00e9jeuner et diner\n4.Tim Hortons\n5.McDonald\u2019s",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_420.PNG",
+        "question": "\"I am currently at  Biblioth\u00e8que Germaine-Gu\u00e8vremont. What is the closest coffee shop or restaurant to my location?",
+        "option_count": "5",
+        "options": "1.Cora Breakfast and Lunch\n2.Taglio di Roma\n3.Tutti Frutti d\u00e9jeuner et diner\n4.Tim Hortons\n5.McDonald\u2019s",
+        "answer": "5",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Waterloo Campus. What is the nearest bridge to my location?",
+        "option_count": "4",
+        "options": "1.Hungerford Bridge and Golden Jubilee Bridges\n2.Waterloo Bridge\n3.Blackfriars Bridge\n4.National Theatre",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_421.PNG",
+        "question": "I  am presently at Cleopatra's Needle. I need to cross the river to get to Royal Festival Hall. What is the nearest bridge to my location?",
+        "option_count": "4",
+        "options": "1.Hungerford Bridge and Golden Jubilee Bridges\n2.Waterloo Bridge\n3.Blackfriars Bridge\n4.National Theatre",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_422.PNG",
+        "question": "What is the closest tourist attraction near the river?",
+        "option_count": "4",
+        "options": "1.Cleopatra's Needle\n2.The National Gallery\n3.The Courtauld Gallery\n4.London Transport Museum",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_423.PNG",
+        "question": "What is the nearest hotel to Biam Model School & College Rajshahi?",
+        "option_count": "4",
+        "options": "1.Parjatan Motel, Rajshahi\n2.Hotel X Rajshahi\n3.Grand River View Hotel\n4.Circuit house Rajshahi",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Lushai Heritage Village",
+        "option_count": "4",
+        "options": "1.Machang Nak Resort Sajek Valley\n2.Honeymoon Cottage\n3.Sajek Hill View Resort\n4.Meghpunji Resort, Sajek",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from \u0995\u0982\u09b2\u09be\u0995 \u09b0\u09bf\u09df\u09be\u0982 \u099d\u09b0\u09cd\u09a8\u09be?",
+        "option_count": "4",
+        "options": "1.Machang Nak Resort Sajek Valley\n2.Honeymoon Cottage\n3.Sajek Hill View Resort\n4.Meghpunji Resort, Sajek",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_424.PNG",
+        "question": "What is the nearest hotel from Sajek Valley International Park?",
+        "option_count": "4",
+        "options": "1.Machang Nak Resort Sajek Valley\n2.Honeymoon Cottage\n3.Sajek Hill View Resort\n4.Meghpunji Resort, Sajek",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_425.PNG",
+        "question": "Could you please tell me the closest tourist attraction to my current location? I work at Home Services Lux SARL",
+        "option_count": "4",
+        "options": "1.Fontaine aux colombes\n2.Wenzel photopoint\n3.Citadel of the Holy Spirit\n4.Vestiges du Fort Verlorenkost\n",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_425.PNG",
+        "question": "Can you inform me about the nearest tourist attraction from my current location? I am a student at La Dante Alighieri Luxembourg.",
+        "option_count": "4",
+        "options": "1Citadel of the Holy Spirit\n2.Wenzel photopoint\n3.Fontaine aux colombes\n4.Vestiges du Fort Verlorenkost\n",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the bridge?",
+        "option_count": "7",
+        "options": "1.Luxembourg City History Museum\n2.Nationalmus\u00e9e um F\u00ebschmaart\n3.H\u00e4mmelsmarsch statue la Wil Lofy\n4.Muerbelsmillen\n5.Archaeological Crypt\n6.Passaig du Palais\n7.Abgeordnetenkammer",
+        "answer": "5",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to the Place Guillaume II?",
+        "option_count": "7",
+        "options": "1.Luxembourg City History Museum\n2.Nationalmus\u00e9e um F\u00ebschmaart\n3.H\u00e4mmelsmarsch statue la Wil Lofy\n4.Muerbelsmillen\n5.Archaeological Crypt\n6.Passaig du Palais\n7.Abgeordnetenkammer",
+        "answer": "7",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_426.PNG",
+        "question": "What is the closest museum to theNeum\u00fcnster Abbey?",
+        "option_count": "7",
+        "options": "1.Luxembourg City History Museum\n2.Nationalmus\u00e9e um F\u00ebschmaart\n3.H\u00e4mmelsmarsch statue la Wil Lofy\n4.Muerbelsmillen\n5.Archaeological Crypt\n6.Passaig du Palais\n7.Abgeordnetenkammer",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the bridge?",
+        "option_count": "4",
+        "options": "1.Kaya Bazar Jame Mosque\n2.\u0997\u09cb\u09ae\u09be \u09ac\u09be\u099c\u09be\u09b0 \u099c\u09be\u09ae\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6\n3.\u0986\u09b2-\u0995\u09be\u09a6\u09b0\u09c0\u09df\u09be \u099c\u09be\u09ae\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6\n4.\u0995\u09be\u09a0\u09bf\u09aa\u09be\u09dc\u09be",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_428.PNG",
+        "question": "What is the closest mosque  to the Dudhal Model School?",
+        "option_count": "4",
+        "options": "1.Kaya Bazar Jame Mosque\n2.\u0997\u09cb\u09ae\u09be \u09ac\u09be\u099c\u09be\u09b0 \u099c\u09be\u09ae\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6\n3.\u0986\u09b2-\u0995\u09be\u09a6\u09b0\u09c0\u09df\u09be \u099c\u09be\u09ae\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6\n4.\u0995\u09be\u09a0\u09bf\u09aa\u09be\u09dc\u09be",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_429.PNG",
+        "question": "What is the closest market to Barishal University?",
+        "option_count": "4",
+        "options": "1.Kalijira Bazar\n2.Talukdar Market\n3.\u099a\u09cc\u09ae\u09be\u09a5\u09be \u09ac\u09be\u099c\u09be\u09b0\n4.RANIRHAT, HAZI-MARKET",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_430.PNG",
+        "question": "At the Phai Sali (Dai Tan) Intersection bridge, what is the nearest temple to my location?",
+        "option_count": "4",
+        "options": "1.Wat Pa Siriwattanawisuth\n2.Wat Ban Khao Hin Kling\n3.Wat Khok Makham Ngam\n4.Wat Sa Thale",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_430.PNG",
+        "question": "what is the nearest temple to my location?",
+        "option_count": "4",
+        "options": "1.Wat Pa Siriwattanawisuth\n2.Wat Ban Khao Hin Kling\n3.Wat Khok Makham Ngam\n4.Wat Sa Thale",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_431.PNG",
+        "question": "i am at Abu Dhabi Golf Club, A - Khalifa City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location?",
+        "option_count": "4",
+        "options": "1.Mado Al Qana Restaurant, CF4V+4CM - Rabdan - \u0627\u0644\u0645\u064e\u0642\u0637\u064e\u0639 - Abu Dhabi - United Arab Emirates\n2.Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates\n3.Jade Restaurant\n4.Du Roi Cafe & Restaurant",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_431.PNG",
+        "question": "i am at Burjeel Medical City, 28th Street - Mohamed Bin Zayed City - Abu Dhabi - United Arab Emirates .What is the nearest restaurant to my location?",
+        "option_count": "4",
+        "options": "1.Mado Al Qana Restaurant, CF4V+4CM - Rabdan - \u0627\u0644\u0645\u064e\u0642\u0637\u064e\u0639 - Abu Dhabi - United Arab Emirates\n2.Oii Restaurant & Cafe, Al Maqta' St - Rabdan - Abu Dhabi - United Arab Emirates\n3.Jade Restaurant\n4.Du Roi Cafe & Restaurant",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_432.PNG",
+        "question": "i am at Netaji Subhash Chandra Bose International Airport .What is the nearest hospital to my location?",
+        "option_count": "4",
+        "options": "1.Bindubasini Nursing Home\n2.Belur State General Hospital\n3.ESI Hospital Kamarhati\n4.Dum Dum Municipal Specialized Hospital and Cancer Research Center",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_433.PNG",
+        "question": "i am at \u09b8\u09be\u0997\u09b0 \u0987\u09b2\u09c7\u0995\u099f\u09cd\u09b0\u09bf\u0995 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8 \u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b0 .What is the nearest mosque to my location?",
+        "option_count": "4",
+        "options": "1.Kalumaria Mosque\n2.Al Ihsan Jame Mosque\n3.Komlapur Jame Masjid\n4.Mollikpur mosque",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_433.PNG",
+        "question": "i am at KHORKHORI COMPLAIN CENTER.What is the nearest mosque to my location?",
+        "option_count": "4",
+        "options": "1.Kalumaria Mosque\n2.Al Ihsan Jame Mosque\n3.Komlapur Jame Masjid\n4.Mollikpur mosque",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_434.PNG",
+        "question": "I'm at Al Gharrafa Air-Conditioned Park. Could you tell me which hospital is closest to my location?",
+        "option_count": "4",
+        "options": "1.Al Hazm\n2.Al-Ahli Hospital\n3.AlMahmoud Medical Center\n4.Gharrafat Al Rayyan Health Center \u200e \u0645\u0631\u0643\u0632 \u063a\u0631\u0627\u0641\u0629 \u0627\u0644\u0631\u064a\u0627\u0646 \u0627\u0644\u0635\u062d\u064a",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_434.PNG",
+        "question": "I'm at Tawar Mall. Could you tell me which hospital is closest to my location?",
+        "option_count": "4",
+        "options": "1.Al Hazm\n2.Al-Ahli Hospital\n3.AlMahmoud Medical Center\n4.Gharrafat Al Rayyan Health Center \u200e \u0645\u0631\u0643\u0632 \u063a\u0631\u0627\u0641\u0629 \u0627\u0644\u0631\u064a\u0627\u0646 \u0627\u0644\u0635\u062d\u064a",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1004.PNG",
+        "question": "I'm at New World Beijing Hotel. Could you tell me which tourist attraction is closest to my location?",
+        "option_count": "4",
+        "options": "1.Beijing tourism hub\n2.Zhengyang Bridge\n3.Zhengyangmen\n4.Wangfujing Pedestrian Street",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1004.PNG",
+        "question": "I'm at Imperial Ancestral Temple. Could you tell me which tourist attraction is closest to my location?",
+        "option_count": "4",
+        "options": "1.Beijing tourism hub\n2.Zhengyang Bridge\n3.Zhengyangmen\n4.Duanmen",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_505.PNG",
+        "question": "I'm currently staying at H\u00f6rselberg-Hainich, while my friend is staying at T\u00fcngeda. After we meet up, I want to visit an amusement park nearby. Can you suggest one that's close to us?",
+        "option_count": "4",
+        "options": "1.Panzerarena\n2.Baumkronenpfad im Nationalpark Hainich\n3.Haineck Castle\n4.Climbing Forest Hainich on Reckenb\u00fchl",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_512.PNG",
+        "question": "As a doctor at Kontum Hospital and a Christian, I attend church every noon. Given that I stay near B\u1ec7nh X\u00e1 Phong \u0110\u1eafk Kia, I am looking for a church that is conveniently located nearby.",
+        "option_count": "4",
+        "options": "1.\nTRUNG T\u00c2M H\u00c0NH CH\u00cdNH T\u1ec8NH KON TUM\n2.\nNh\u00e0 Th\u1edd Gi\u00e1o X\u1ee9 \u0110\u1eafk Kia\n3.\nCH\u00d9A HOA NGHI\u00caM\n4.\nNh\u00e0 Th\u1edd Kon R\u01a1 Bang",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_569.PNG",
+        "question": "I am in Sylhet\u2019s Lamabazar area and looking for a safe and well-maintained playground for my\n children to play .Can you suggest one nearby?",
+        "option_count": "4",
+        "options": "1)SPI Play Ground\n2)Bilpar Play Ground\n3)Kolapara Playground\n4)SPI Play Ground-2",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_572.PNG",
+        "question": "I am in Cox\u2019s Bazar, Kolatoli Beach. Can you suggest a tourist spot nearby?",
+        "option_count": "4",
+        "options": "1)Cox's Bazar Sea Beach \n 2)Sayman point, Kolatoli, Coxsbazar\n  3)Darianagar Sea View Park \n 4)Laboni Point Sea Beach\n\n",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_573.PNG",
+        "question": "I am in Bogura, Satmatha area. Where is the nearest bookstore?",
+        "option_count": "4",
+        "options": "1)\u09ac\u09bf\u09b8\u09ae\u09bf\u09b2\u09cd\u09b2\u09be\u09b9 \u09ae\u09c7\u09a1\u09bf\u0995\u09c7\u09b2 \u09ac\u09c1\u0995 \u09b9\u09be\u0989\u09b8  \n2)  Bogura Online Book Shop\n  3)Book Center\n 4)Peace Park",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_576.PNG",
+        "question": "I recently moved to the Uttara area in Dhaka, and I need to find a mosque close to Sector\n 4 for daily prayers. Can you help me locate the nearest one?\n",
+        "option_count": "4",
+        "options": "1)Riazul Jannah Jame Mosjid\n2)Uttara 1No. Sector Jame Mosque \n3)RAK Tower Jame Mosque \n4)Uttara 4 Sector Jame Masjid",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_577.PNG",
+        "question": "I am in Chittagong, Agrabad area. Can you suggest a good bakery near me?",
+        "option_count": "4",
+        "options": "1)Flavors\n 2)Well Food \n3)Tasty Treat\n 4)Le Bakehouse\n",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_578.PNG",
+        "question": "I am searching the best hotel near Ramnagar, Dinajpur. Find me the best one near Ramnagar.",
+        "option_count": "4",
+        "options": "1. Hotel Shahra\n2. Hotel Happy Tree\n3. Uzzal Mansion\n4. Hotel Grand Noor",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_579.PNG",
+        "question": "I will be visitng Switzerland from Dhaka on upcoming 27th May. I dont know anything about Switzerland. I am living in mohammadpur, Dhaka. Suggest me the nearest place from where I can buy the plane ticket for switzerland.",
+        "option_count": "4",
+        "options": "1. Novo Air Ticket office\n2. US-Bangla Airlines Mohammadpur Outlet\n3. US bangla Ticket office\n4. Air Zarin",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_589.PNG",
+        "question": "I\u2019ve recently joined Bangladesh Parjatan Corporation. I\u2019m looking for the best restaurant near me for dinner, which I usually have at 3 AM. Can you suggest a good option?",
+        "option_count": "4",
+        "options": "1)\nMollah hotel & restaurant\n2)\u09b6\u09c7\u0996 \u09b0\u09c7\u09b6\u09ae\u09be\u09b0 \u09ad\u09be\u09a4\u09c7\u09b0 \u09b9\u09cb\u099f\u09c7\u09b2\n3)Snigdha Hotel & Restaurant\n4)Sunmoon Kitchen & Restaurant",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "Which church is near st johannes?",
+        "option_count": "4",
+        "options": "1. Gustaf Vasa Church\n2. Adolf Fredriks Forsamling\n3. St Peter's Church\n4. City Church",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "Which restaurant is nearest Fodklinikken Herning hospital and Uhrskov Vinhandel?",
+        "option_count": "4",
+        "options": "1. M\u00f8llegrillen Herning\n2. Brasseriet\n3. F\u00e6llesBo\n4. Herning Kirke",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1103.PNG",
+        "question": "Which school is nearest the calle 40 and calle 39?",
+        "option_count": "4",
+        "options": "1. Unitropico\n2. SENA\n3. Yopal Casanare\n4. Papelaria Yopal",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "What is the nearest resting house from sparkling Pure Water Factory?",
+        "option_count": "4",
+        "options": "1. Cole Street Guesthouse\n2. Comfort Lodge\n3. Seabird Water Taxi\n4. Ambi Travelers Lounge",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "Whats the nearest Mosque from Putra Medical Centre Alor Setar and UTC Kedath?",
+        "option_count": "4",
+        "options": "1. Masjid Zahir \n2. Masjid Nagore\n3. Masjid Al-Irfan\n4. Mashjid Al-Bukhari",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "Find a mosque with some restaurants nearby.",
+        "option_count": "4",
+        "options": "1. Masjid Zahir \n2. Masjid Mohammad Iskandar Wan Tempawan\n3. Masjid Al-Irfan\n4. Mashjid Al-Bukhari",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "I want to visit Bergen Havn in the morning, which nearest Hotel I should stay for convenience?",
+        "option_count": "4",
+        "options": "1. Radisson Blu Royal Hotel\n2. Thon Hotel Orion\n3. Hotel Bergen\n4. Comfort Hotel Bergen",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1108.PNG",
+        "question": "Whats the nearest Metro station from the river?",
+        "option_count": "4",
+        "options": "1. Oktogon\n2. Opera\n3. Kossuth\n4. Szabads\u00e1g t\u00e9r",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1109.PNG",
+        "question": "Which caf\u00e9 is nearest to the Bridge across the river and nirvana inn?",
+        "option_count": "4",
+        "options": "1. Hotel Seasons\n2. Brioche Cafe\n3. Mountain Cafe\n4. Biriyani House and Thali",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest restaurant of Marzanny?",
+        "option_count": "4",
+        "options": "1. Karachi Restaurant\n2. Restauracja Locale\n3. Mountain Cafe\n4. Bezownia",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "Whats the nearest school from Hotel Mokot\u00f3w?",
+        "option_count": "4",
+        "options": "1. Przedszkole nr 228\n2. Przedszkole No. 199\n3. Przedszkole nr 170\n4. Jordanowski Park II",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "Which restaurant is closest to Campus to Contador?",
+        "option_count": "4",
+        "options": "1. La Bifera\n2. Tacu Tacu Restaurant\n3. Tea Connection\n4. Indisa",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "Which metro station is near the reataurant domenica?",
+        "option_count": "4",
+        "options": "1. Tobala L1\n2. El Golf\n3. Ambrosia Bistro\n4. Callao",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1112.PNG",
+        "question": "Which castle is closest to Howth rail station?",
+        "option_count": "4",
+        "options": "1. Howth Castle\n2. Mary Castle\n3. Claremont Castle\n4. Balscadden House",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1113.PNG",
+        "question": "Which is the closest Hotel from Rudolfinum?",
+        "option_count": "4",
+        "options": "1. Mala Strana\n2. The Julius Prague\n3. Mandarin Oriental \n4. Escape",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "I want to visit Pringle bay beach, which hotel should be nearby for me?",
+        "option_count": "4",
+        "options": "1.The Crowded House\n2. Hilton House\n3. The Mermaids Tail\n4. Gecko House Accomodation",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1114.PNG",
+        "question": "Which restaurant is closest to the green area?",
+        "option_count": "4",
+        "options": "1. Lemon+Lime Deli\n2. Hook Line & Srinker\n3. The Mermaids Tail\n4. Lynette Morris-Hale",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1115.PNG",
+        "question": "Which meuseum is closest to a tourist attraction and a theatre?",
+        "option_count": "4",
+        "options": "1. Beaux-Arts Mons\n2. Belfry of Mons\n3. Salle Saint-Georges\n4. Mus\u00e9e du Doudou",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1116.PNG",
+        "question": "Which hotel is nearest the A101 super market?",
+        "option_count": "4",
+        "options": "1. Melrose Viewpoint Hotel\n2. Beyaz Kale Pansiyon\n3. Aspawa Hotel\n4. The Cotton House",
+        "answer": "4",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1117.PNG",
+        "question": "Which restaurant or club is near a parking?",
+        "option_count": "4",
+        "options": "1. Nick's Food Design\n2. Cigges Club\n3. Juhana Herttuan kellari\n4. Caf\u00e9 Poiju",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1118.PNG",
+        "question": "Which hotel is closest to Juba airport?",
+        "option_count": "4",
+        "options": "1. Riviera Hotel\n2. Yam Hotel\n3. Hotel Panorama Plaza Juba\n4. Nile Fortune Hotel",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1119.PNG",
+        "question": "Which hotel is closest to Witte de Withstraat?",
+        "option_count": "4",
+        "options": "1. de Boeg\n2. Leuvehaven\n3. The Usual Rotterdam\n4. Museum Boijmans Van Beuningen",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1120.PNG",
+        "question": "I want to visit the Marines Museum, which is the closest metro station?",
+        "option_count": "4",
+        "options": "1. Rotterdam\n2. Blaak\n3. TLeuvehaven\n4. Eendrachtsplein",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1121.PNG",
+        "question": "Which shopping mall is closest from the metro station?",
+        "option_count": "4",
+        "options": "1. \u0410\u0437\u0431\u0443\u043a\u0430 daily\n2. \u0422\u0426 \u041c\u0438\u043d\u0438 \u041c\u043e\u043b\u043b\n3. Winestyle \u0432\u0438\u043d\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\n4. Vernyy \u0412\u0435\u0440\u043d\u044b\u0439",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1122.PNG",
+        "question": "Which is the closest shopping mall from Unidad Cultural y Deportiva Azquil and El Polvorin?",
+        "option_count": "4",
+        "options": "1. Neto Santa Maria 9058\n2. Ofertas S y H\n3. Tlapaler\u00eda Don Chava\n4. EPOEM",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1123.PNG",
+        "question": "Which shopping mall is closest from the Christ Revealed Worlwide?",
+        "option_count": "4",
+        "options": "1. 74 cameron bushhouse shop 112\n2. Finches Curtains, Rods & Blinds.\n3. YoPlug\n4. Cameron Mall",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1125.PNG",
+        "question": "Which parks are nearest to the tourists attarctions?",
+        "option_count": "4",
+        "options": "1. \ud574\uad70\ud68c\uad00\n2. \ub0a8\uad6c\uc2e4\ub0b4\ube59\uc0c1\uc7a5.\n3. \uc624\ub959\ub3c4 \ud574\ub9de\uc774\uacf5\uc6d0\n4. \uc790\uc5f0\uc774\uc8fc\ub294 \ubc25\uc0c1",
+        "answer": "3",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1126.PNG",
+        "question": "I willl be visiting Piscine Miami, which hotel should I stay in?",
+        "option_count": "4",
+        "options": "1. THALASSO HOTEL & Spa\n2. Four Seasons Hotel Casablanca\n3. Plage Lalla Meryem\n4. Casablanca",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1130.PNG",
+        "question": "I just landed at the airport, where is the closes atm booth?",
+        "option_count": "4",
+        "options": "1. NBM Bank ATM\n2. TIA \n3. Diyana ATM\n4. Aviation ATM",
+        "answer": "1",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_1131.PNG",
+        "question": "Whats the closes shoipping mall from the hospital?",
+        "option_count": "4",
+        "options": "1. Gymnase Alice Milliat\n2. Lidl\n3. Franpix\n4. Espace Langevin",
+        "answer": "2",
+        "classification": "nearby"
+    },
+    {
+        "image_path": "Vdata/ID_701.PNG",
+        "question": "What is the shortest route from point  Lulu Hypermarket to point Safari Mall\nAl khawla st, Abu Hamour, Doha ?",
+        "option_count": "3",
+        "options": "1.Lulu Hypermarket - D-ring Road\nD Ring Rd, Doha\n\n\nContinue to Jaber Bin Hayyan St\n1 min (160 m)\n\n\nDrive from D Ring Rd, Al Muntazah St/Rawdat Al Khail St and Industrial Area Rd to Al Rayyan Municipality\n11 min (7.7 km)\n\n\nTake \u202bWadi Al Fesseela St\u202c\u200e to your destination\n2 min (650 m)\nSafari Mall\nAl khawla st, Abu Hamour, Doha\n\n2.\nLulu Hypermarket - D-ring Road\nD Ring Rd, Doha\n\n\ue5cc\nTake Ahmed Bin Hanbal St and Al Ahnaf Bin Qais St to Oqba Bin Nafie St\n5 min (1.4 km)\n\n\ue5cc\nDrive from E Ring Rd, Industrial Area Rd and \u202bAl Muntazah St\u202c\u200e to Al Rayyan Municipality\n8 min (6.8 km)\n\n\ue5cc\nTake \u202bWadi Al Fesseela St\u202c\u200e to your destination\n2 min (650 m)\nSafari Mall\nAl khawla st, Abu Hamour, Doha\n\n\n3.Lulu Hypermarket - D-ring Road\nD Ring Rd, Doha\n\n\ue5cc\nTake Ahmed Bin Hanbal St and Al Ahnaf Bin Qais St to Oqba Bin Nafie St\n5 min (1.4 km)\n\n\ue5cc\nDrive from E Ring Rd, Industrial Area Rd and \u202bAl Muntazah St\u202c\u200e to Al Rayyan Municipality\n8 min (6.8 km)\n\n\ue5cc\nTake \u202bWadi Al Fesseela St\u202c\u200e to your destination\n2 min (650 m)\nSafari Mall\nAl khawla st, Abu Hamour, Doha",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_702.PNG",
+        "question": "What is the distance between New Century Restaurant, 398 Ferrier St Unit 108, Markham, ON L3R 2Z5, and Billa Appliances, 330 Steelcase Rd E, Markham, ON L3R 1G3, Canada if I go through the route:\nSteeles Ave E/Regional Rd 95 ,Esna Park Dr to Steelcase Rd E ,Steelcase Rd E ",
+        "option_count": "4",
+        "options": "(1)  1.8km\n(2)  2.1km\n(3)  2.6km\n(4)     5km",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_703.PNG",
+        "question": "Which direction should I travel from Downing St, London, UK, to reach the Institute of Contemporary Arts, The Mall, St. James's, London SW1Y 5AH, United Kingdom?",
+        "option_count": "3",
+        "options": "1.\nHead east on Downing St toward K Quinn St\nRestricted usage road,Whitehall/A3212,Slight left to stay on Whitehall/A3212,\nAt the roundabout, take the 1st exit onto The Mall,\n\n2.\n\nDowning St toward K Quinn St,Restricted usage road, Whitehall/A3212,Great Scotland Yard,Northumberland Ave, Northumberland St,Strand/A4,Continue to follow A4,At the roundabout, exit onto The Mall\n3.\n\n\nHead east on Downing St toward K Quinn St\n Restricted usage road,Whitehall/A3212,Horse Guards Rd\n\n\n",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_704.PNG",
+        "question": "Which direction should I travel from Tsumagoi Prince Hotel, to reachNukuisawa Sakura Park, JAPAN?",
+        "option_count": "4",
+        "options": "1.\n \u8349\u6d25\u753a \u524d\u53e3,\u6d45\u9593\u30fb\u767d\u6839\u30fb\u5fd7\u8cc0\u3055\u308f\u3084\u304b\u8857\u9053/\u56fd\u9053292\u53f7 to \u9577\u91ce\u539f\u753a \u9577\u91ce\u539f,\u4e0a\u4fe1\u81ea\u52d5\u8eca\u9053/\u516b\u30c3\u5834\u30d0\u30a4\u30d1\u30b9/\u56fd\u9053145\u53f7 in \u6797 from \u770c\u9053376\u53f7\n, \u4e0a\u4fe1\u81ea\u52d5\u8eca\u9053/\u516b\u30c3\u5834\u30d0\u30a4\u30d1\u30b9/\u56fd\u9053145\u53f7 to \u5ddd\u539f\u7551. Take the exit toward Kawarayu from \u4e0a\u4fe1\u81ea\u52d5\u8eca\u9053/\u516b\u30c3\u5834\u30d0\u30a4\u30d1\u30b9/\u56fd\u9053145\u53f7\n\n2.\n\n\u6d45\u9593\u30fb\u767d\u6839\u30fb\u5fd7\u8cc0\u3055\u308f\u3084\u304b\u8857\u9053 to \u56fd\u9053144\u53f7/\u56fd\u9053406\u53f7 in \u82a6\u751f\u7530,\u56fd\u9053406\u53f7 and \u56fd\u9053145\u53f7 to \u9577\u91ce\u539f\u753a \u5ddd\u539f\u7551. Take the exit toward Kawarayu from \u56fd\u9053145\u53f7\n\n3.\nContinue to \u8349\u6d25\u753a \u524d\u53e3, \u6d45\u9593\u30fb\u767d\u6839\u30fb\u5fd7\u8cc0\u3055\u308f\u3084\u304b\u8857\u9053/\u56fd\u9053292\u53f7 and \u56fd\u9053145\u53f7 to \u9577\u91ce\u539f\u753a \u5ddd\u539f\u7551. Take the exit toward Kawarayu from \u56fd\u9053145\u53f7\n\n4.\nTake \u6d45\u9593\u30fb\u767d\u6839\u30fb\u5fd7\u8cc0\u3055\u308f\u3084\u304b\u8857\u9053 to \u56fd\u9053144\u53f7/\u56fd\u9053406\u53f7,\u56fd\u9053406\u53f7 and \u56fd\u9053145\u53f7 to \u9577\u91ce\u539f\u753a \u5ddd\u539f\u7551. Take the exit toward Kawarayu from \u56fd\u9053145\u53f7\n",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_705.PNG",
+        "question": " Calculate the total distance of the route from Point Dhaka to Point Rajshahi via Points Tongi  and Natore",
+        "option_count": "4",
+        "options": "(1)  250km\n(2)  249km\n(3)  247km\n(4)     248km",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_707.PNG",
+        "question": "Identify three landmarks that are located between Point \nVieux-Port de Montr\u00e9al and Point Montreal Courthouse",
+        "option_count": "4",
+        "options": "1.MTELUS\n2.Museum of Illusions Montr\u00e9al\n3.Notre-Dame-de-Bon-Secours Chapel\n4.Le Vieux Montr\u00e9al,",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_708.PNG",
+        "question": "If traveling at a constant speed of 5.4 km/h, how long will it take to travel from Point Doha International Airport, Bandara Internasional Hamad, Qatar Air Traffic Control, MB l.p, Doha to Point The Pearl Island, Doha if the distance is 19.4 km?",
+        "option_count": "4",
+        "options": "(1) 3.12 Minutesv\n(2) 3.72 Minutesv\n(3) 3.82 Minutesv\n(4) 3.99 Minutesv",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_709.PNG",
+        "question": " Which route would you take to minimize travel time from Point Motijheel to Point Bashundhara City Shopping Complex, Bangladesh during rush hour, considering major traffic areas shown on the map?",
+        "option_count": "4",
+        "options": "1.Bir Uttam Samsul Alam Sarak/VIP Rd,Minto Rd, Kazi Nazrul Islam Ave,Kazi Nazrul Islam Ave,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance\n\n2. Bir Uttam Samsul Alam Sarak/VIP Rd,Bir Uttam Samsul Alam Sarak, Shahbagh Rd and New Elephant Rd to Green Rd,Green Rd. \n\n3.Bir Muktijhoddha Abdus Salam Sarak/Freedon Fighter Abdus Salam Rd toward Commissioner Ln,Moghbazar Rd/Shaheed Captain Monsur Ali Sharani and Mouchak Mogbazar Flyover,Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance\n\n4. Bir Muktijhoddha Abdus Salam Sarak/Freedon Fighter Abdus Salam Rd toward Commissioner Ln,Bir Uttam Samsul Alam Road, Outer Circular Rd and New Eskaton Road to Minto Rd,At the roundabout, take the 2nd exit and stay on Minto Rd,Mouchak Mogbazar Flyover,Take Bir Uttam Kazi Nuruzzaman Rd/Panthapath to Bashundhara City Parking Entrance\n",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_712.PNG",
+        "question": "Which Park is located at the intersection of\nBusiness complex \"Mir\"  and Novokosino,moscow?",
+        "option_count": "4",
+        "options": "1.Ol'ginskiy Lesopark\n2.Fabrichnyy Prud\n3.\u0422\u0435\u0440\u043b\u0435\u0446\u043a\u0438\u0439 \u043f\u0430\u0440\u043a\n4.Park Kuskovo",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_714.PNG",
+        "question": "Which landmarkis located at the intersection of \nAer\u00f3dromo de La Mancha  and Villaca\u00f1as,Spain?",
+        "option_count": "4",
+        "options": "1.Silo Birding La Mancha\n2.Hito de la costera\n3.Molino de Enmedio Villaca\u00f1as\n4.Silos de la Atalaya",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_717.PNG",
+        "question": "If you are currently at Point X, which direction should you travel to reach Point Y?",
+        "option_count": "4",
+        "options": "1.Gurusaday Dutta Rd,Gurusaday Dutta Rd. Take Acharya Jagdish Chandra Bose Rd to Elliot Rd in Taltala, Elliot Rd to Esplanade,Muzaffar Ahmed St/Ripon St to Camac St,Park Center Bldg Wadhwana,Shakespeare Sarani Rd. Take Queens Way, Indira Gandhi Sarani, Pranabananda Sarani, Hospital Rd, ... and Belvedere Rd to Nawab Masjid Rd in Alipore,Nawab Masjid Rd \n\n2.Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd, Pass by Survey Bldg ,Nawab Masjid Rd \n\n3. Gurusaday Dutta Rd,Ashutosh Chowdary Ave/Gariahat Rd/Old Ballygunge Rd to Garcha Rd in Ballygunge Place\nGarcha Rd,Hazra Rd to Alipore,Nawab Masjid Rd \n\n4.Gurusaday Dutta Rd,Syed Amir Ali Ave, Circus Ave and Debendra Lal Khan Rd to Baker Rd/Biplabi Kanai Bhattacharya Sarani in Alipore Police Line\n,Baker Rd/Biplabi Kanai Bhattacharya Sarani,Judges Court Rd,Survey Bldg \n\n",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_715.PNG",
+        "question": "I am beside the Goa Chitra Museum. Which beach is located nearby?",
+        "option_count": "4",
+        "options": "1.Majorda Beach\n2.Arossim Beach\n3.Varca Beach\n4.Betalbatim Beach\n",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_716.PNG",
+        "question": "Which Tourist attraction is located at the intersection of Desert al qudra  and Warrior break,Dubai?",
+        "option_count": "4",
+        "options": "1.Crescent Moon Lake\n2.Love Lake - Al Qudra\n3.\u0645\u062d\u0637\u0629 \u0637\u0642\u0633 \u0633\u064a\u062d \u0627\u0644\u0633\u0644\u0645 Seeh Al Salam Peace Weather Station\n4.Rest zone",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_711.PNG",
+        "question": "What is the shortest route from point  \u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e15\u0e36\u0e01\u0e2d\u0e35\u0e01\u0e32(\u0e42\u0e04\u0e01\u0e15\u0e36\u0e01) Khok Duea, Phaisali District, Nakhon Sawan 60220, Thailand to point \u0e19\u0e49\u0e33\u0e15\u0e01\u0e0b\u0e31\u0e1a\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c GQQH+R2R, Wang Khoi, Phaisali District, Nakhon Sawan 60220, Thailand?",
+        "option_count": "4",
+        "options": "1.\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17,\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17 to \u0e15\u0e33\u0e1a\u0e25 \u0e19\u0e32\u0e02\u0e2d\u0e21,Route 3004 to \u0e15\u0e33\u0e1a\u0e25 \u0e27\u0e31\u0e07\u0e02\u0e48\u0e2d\u0e22\n2.  \u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17,\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17, \u0e15\u0e33\u0e1a\u0e25 \u0e19\u0e32\u0e02\u0e2d\u0e21, \u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17,Route 3004 to \u0e15\u0e33\u0e1a\u0e25 \u0e27\u0e31\u0e07\u0e02\u0e48\u0e2d\u0e22\n3. Route 11,Route 3004 to \u0e15\u0e33\u0e1a\u0e25 \u0e27\u0e31\u0e07\u0e02\u0e48\u0e2d\u0e22\n4. \u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17,\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e0a\u0e19\u0e1a\u0e17, Route 3004 and \u0e19\u0e27.4105 to \u0e15\u0e33\u0e1a\u0e25 \u0e27\u0e31\u0e07\u0e02\u0e48\u0e2d\u0e22\n",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_713.PNG",
+        "question": "Which Park is located at the intersection of \nBentwinds Country Club  and \nTing Park,North California,USA?",
+        "option_count": "4",
+        "options": "1.Juniper Level Botanic Garden\n2.Centennial Park\n3.Bass Lake Park\n4.Lake Benson Park",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_728.PNG",
+        "question": "Navigate me to the nearest Shopping mall located near Blackwattle Bay Park,Sydney,Australia?",
+        "option_count": "4",
+        "options": "1. Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road\n2.Glebe Point Rd and Hereford St to Minogue Cres in Forest Lodge,Minogue Cres to Annandale,Dalgal Wy in Forest Lodge\n3.Glebe Point Rd and Wigram Rd to Minogue Cres in Forest Lodge,Minogue Cres\n4.Glebe Point Rd to Bridge Rd,Bridge Rd, Minogue Cres and The Crescent to Nelson St in Annandale,Wy in Forest Lodge",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_718.PNG",
+        "question": "What is the shortest distance between Hong Lim Market & Food Centre and Aurealis Serviced Residence,singapore?",
+        "option_count": "4",
+        "options": "1. Hokien St to New Bridge RdHavelock Rd, Upper Pickering St and Church St to Marina View\n Marina View Link\n\n\n2. St to New Bridge Rd,New Bridge Rd,Take Maxwell Rd and Cecil St to Collyer Quay\nMarina Blvd to Marina View,Marina View Link\n\n3. Hokien St to New Bridge Rd,Havelock Rd and Upper Pickering St to South Bridge Rd,St. Take Eu Tong Sen St, Upper Pickering St and Church St to Marina View, Marina View Link\n\n4.Hokien St to New Bridge Rd,Cross St, Havelock Rd, Upper Pickering St, South Bridge Rd and Upper Cross St to Temple St, Temple St. Take South Bridge Rd and Kreta Ayer Rd to Eu Tong Sen St,Eu Tong Sen St. Take Upper Pickering St and Church St to Marina View,Marina View Link",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_719.PNG",
+        "question": "Which Golf Clubis located at the intersection of Springfield  and Houdaille Quarry\n?",
+        "option_count": "4",
+        "options": "1.Brooklake Country Club\n2.Baltusrol Golf Club\n3.East Orange Golf Course\n4.Reeves-Reed Arboretum",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_710.PNG",
+        "question": "What is the shortest route from point  Barishal to point Dhaka ,Bangladesh?",
+        "option_count": "4",
+        "options": "1. Barisal Bypass toward BM College Rd,Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka,Kamal Ataturk Ave/Kemal Ataturk Ave. Take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd\n\n2. Barisal Bypass toward BM College Rd\n Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Moghbazar Rd/Shaheed Captain Monsur Ali Sharani in Dhaka\n\n Moghbazar Rd. Take Hatir Jheel Link Rd, Bir Uttam Mir Shawkat Sarak, Gulshan Ave and Gulshan North Ave to United Hospital Emergency Rd\n\n3. Barisal Bypass toward BM College Rd\n Barisal Highway/Faridpur-Barisal Highway/N8. Take Dhaka - Madaripur Hwy, Dhaka-Mawa-Bhanga Expy and Progoti Sarani - Debogram Rd/Purbachal Expy/N301 to Joar Shahara Bazar Rd/Shimul Bari Rd in Dhaka\n\n4. Barisal Bypass toward BM College Rd\n\nDhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy and Dhaka-Mawa-Bhanga Expy to Dhaka Division. Exit from Dhaka - Madaripur Hwy/Dhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/Padma Brg Rd/\u09a2\u09be\u0995\u09be- \u09ae\u09be\u0993\u09df\u09be \u09b9\u09be\u0987\u0993\u09df\u09c7/AH1/N8\n\nDhaka - Madaripur Hwy/Dhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/\u09a2\u09be\u0995\u09be- \u09ae\u09be\u0993\u09df\u09be \u09b9\u09be\u0987\u0993\u09df\u09c7/AH1/N8 from Sreenagar - Dohar Hwy/Zinzira - Keraniganj - Nawabganj - Dohar - Srinagar Rd/R820 and Dharmasur-Sonakanda Rd\n\nDhaka - Mawa Hwy/Dhaka-Mawa-Bhanga Expy/\u09a2\u09be\u0995\u09be- \u09ae\u09be\u0993\u09df\u09be \u09b9\u09be\u0987\u0993\u09df\u09c7/AH1/N8. Take Dhaka - Demra Hwy/R110, Dhaka - Sylhet Hwy/AH1/N2, Dhaka City Bypass/N105 and Progoti Sarani - Debogram Rd/Purbachal Expy/N301 to Joar Shahara Bazar Rd/Shimul Bari Rd in Dhaka",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_714.PNG",
+        "question": "Which Mesuem is located at the intersection of \nACCESO AL PARQUE E\u00d3LICO ROMERAL  and \nPunto geod\u00e9sico Los Bolos,Spain?",
+        "option_count": "4",
+        "options": "1.Silo Birding La Mancha\n2.El Calaminar\n3.Molino de Enmedio Villaca\u00f1as\n4.Silos de la Atalaya",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point \nRandall\u2019s Island Athletic Field #83  to Point Carnegie Hill Veterinarians  shown on the map?",
+        "option_count": "4",
+        "options": "1.Hell Gate Bridge\n2.Robert F. Kennedy Bridge\n3.Ward's Island Bridge\n4.Randall's Island Urban Farm",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_722.PNG",
+        "question": "I am at Mint Street Park, 14 Weller St, London SE1 1QU, United Kingdom . Give me driving directions from my location to the Millennium Bridge, Thames Embankment, London EC4V 3QH, United Kingdom . Can you avoid Hevy traffic ?",
+        "option_count": "4",
+        "options": "1.Head southwest on Weller St toward Trundle St,o Lant St\nSouthwark Bridge Rd/A300,Thrale St,Sumner St,Emerson St, Park St\n\n2.Head southwest on Weller St toward Trundle St, Lant St,Southwark Bridge Rd/A300,Southwark St/A3200, Great Guildford St, Park St\n\n3.Head southwest on Weller St toward Trundle St,Trundle St, Lant St,Southwark Bridge Rd/A300,Thrale St, Sumner St,Emerson St, Park St\n\n4. Toulmin St and Great Suffolk St to Borough High St/A3,Borough High St/A3,Park St to Southwark St/A3200,Thrale St and Southwark Bridge Rd/A300 to Sumner St,Sumner St. Drive to Park St",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_723.PNG",
+        "question": "I am currently at the Golden Nugget Las Vegas Hotel & Casino, located at 129 E Fremont St, Las Vegas, NV 89101, United States. What is the estimated walking time to the Discovery Children's Museum if I take the following route: Head northwest on Fremont St/Fremont Street Experience toward N 1st St, then take N 1st St, E Ogden Ave, S City Pkwy, Grand Central Pkwy, West Carson Avenue, and Promenade Pl?",
+        "option_count": "4",
+        "options": "1)18minutes\n2)19minutes\n3)20minutes\n4)21minutes",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_723.PNG",
+        "question": "Now i am at Golden Nugget Las Vegas Hotel & Casino, 129 E Fremont St, Las Vegas, NV 89101, United States.What is the estimated walking time to the Discovery Children's  museum if I take the pedestrian path?",
+        "option_count": "4",
+        "options": "1.Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S Grand Central Pkwy,Robin Leach Ln,Promenade Pl\n\n2.Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N Main St,W Bonneville Ave,Promenade Pl\n3.Head south toward S Casino Center Blvd,S Casino Center Blvd,E Clark Ave,Transit Station St,E Bonneville Ave\n\n4.Head northwest on Fremont St/Fremont Street Experience toward N 1st St,N 1st St,E Ogden Ave,S City Pkwy,Grand Central Pkwy,West Carson Avenue,Promenade Pl\n\n",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_724.PNG",
+        "question": "I am at Point \nCambridge Lodge. Can you navigate me to the nearest restaurant that takes the least time and shortest distance to reach and also avoid traffic?",
+        "option_count": "4",
+        "options": "1..Head southwest on Merchant St,Cambridge St,Liberty St,Gladstone St\n2.Head northeast on Merchant St toward Harrow Rd,Harrow Rd,Harrow Ln,Trafalgar St, Liberty St,Liberty St\n3.Merchant St ,Harrow Rd,Harrow Rd,Liberty St,Gladstone St\n4.Cambridge St to Trafalgar St,Trafalgar St,Harrow Rd,Liberty St,Gladstone St. , Trafalgar St",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_724.PNG",
+        "question": "I am at Point \nCambridge Lodge. Can you calculate the distance  to the nearest restaurant that takes the least time and shortest distance to reach and also avoid traffic?",
+        "option_count": "4",
+        "options": "1) 400m\n2) 450m\n1) 390m\n1) 550m",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_710.PNG",
+        "question": "I am currently in Barishal, Bangladesh. What is the estimated travel time to Dhaka by car if I take the following route: Barisal Bypass toward BM College Rd, Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy, and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka, then Kamal Ataturk Ave/Kemal Ataturk Ave, and finally take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd?\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)3 hr 42 min \n2)3 hr 52 min \n3)3 hr 32 min \n4)3 hr 12 min ",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_710.PNG",
+        "question": "I am currently in Barishal, Bangladesh. What is the estimated distanse to Dhaka by car if I take the following route: Barisal Bypass toward BM College Rd, Dhaka - Barisal Highway/Faridpur-Barisal Highway/N8, Dhaka - Madaripur Hwy, and Dhaka-Mawa-Bhanga Expy to Kamal Ataturk Ave/Kemal Ataturk Ave in Dhaka, then Kamal Ataturk Ave/Kemal Ataturk Ave, and finally take Rd No. 50 and Gulshan North Ave to United Hospital Emergency Rd?\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)183km\n2) 173km\n3)162km\n4)192km",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_727.PNG",
+        "question": "Navigate me to the nearest hospital  located near Dr. Fazle Rabbi Hall Gate, Office building, Dr. Fazle Rabbi Hall, 4 Bakshi Bazar Road, Dhaka, Bangladesh?",
+        "option_count": "4",
+        "options": "1. Bakshi Bazar Road toward Zahir Raihan Rd,Shahid Minar Rd Shandhani Unit Rd\n2. Bakshi Bazar Road toward Zahir Raihan Rd,Dhaka Medical College Bldg St,Restricted usage road\n3. Zahir Raihan Rd,Secretariate Rd,Shandhani Unit Rd \n4.Head north on Bakshi Bazar Road,Hussaini Dalan Rd to Nazimuddin Rd,Zahir Raihan Rd to Dhaka Medical College Bldg St,Dhaka Medical College Bldg St",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_727.PNG",
+        "question": "How far is the nearest hospital from Dr. Fazle Rabbi Hall Gate, Office building, Dr. Fazle Rabbi Hall, 4 Bakshi Bazar Road, Dhaka, Bangladesh if I take the following route: Zahir Raihan Rd,Secretariate Rd,Shandhani Unit Rd ?",
+        "option_count": "4",
+        "options": "1)400m\n2)410m\n3)350m\n4)405m",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point  Astoria Park Running Track to Point  Wards Island Park  shown on the map?",
+        "option_count": "4",
+        "options": "1.Hell Gate Bridge\n2.Robert F. Kennedy Bridge\n3.Ward's Island Bridge\n4.Randall's Island Urban Farm",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_724.PNG",
+        "question": "I am at Point \nCambridge Lodge. Can you calculate the distance  to the nearest park that takes the least time and shortest distance to reach and also avoid traffic?",
+        "option_count": "4",
+        "options": "1) 400m\n2) 450m\n3) 390m\n4) 550m",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_724.PNG",
+        "question": "I am at Point \nCambridge Lodge. Can you navigate me to the nearest park that takes the least time and shortest distance to reach and also avoid traffic?",
+        "option_count": "4",
+        "options": "1.Merchant St, Cambridge St,Holt St\n2. Merchant St ,Cambridge St,Cavendish St,Cavendish St turns left and becomes Aubrey St,Merton St,Trafalgar St\n3. Merchant St ,Harrow Rd,Harrow Rd,Trafalgar St\n4.Head southwest on Merchant St,Cambridge St,Holt St,Cavendish St,Cavendish St , Aubrey St,Merton St,Trafalgar St",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_725.PNG",
+        "question": "How long will it take to get from Bramha Karmali Waterfall to Anjunem Lake  by car  if I take the following route: Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, continue on Bramha Karmali-Shelphem Rd past Shree Datta Mandir (on the left), then take Koparde to Nagargoan Road, Hedode, Edode Titha, Thane, Shri Saibaba Temple onto NH 748AA, and finally Jamblikade?",
+        "option_count": "4",
+        "options": "1) 1h\n2) 30m\n3) 10m\n4) 5m",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_728.PNG",
+        "question": "How far is thenearest Shopping mall from Blackwattle Bay Park,Sydney,Australia? \nif I take the following route shortest route\ni.e the route is :Cook St toward Ricketts Ave,Glebe Point Rd,Wigram Rd,Minogue Cres,The Crescent,Nelson St,Dalgal Wy,Partial restricted usage road",
+        "option_count": "4",
+        "options": "1)3.2 km\n2)3km\n3)5km\n4)2.1km",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_721.PNG",
+        "question": "Which bridge would you take to minimize travel time from Point  Astoria Park  to Point  Randall's Island Urban Farm  shown on the map?",
+        "option_count": "4",
+        "options": "1.Hell Gate Bridge\n2.Robert F. Kennedy Bridge\n3.Ward's Island Bridge\n4.Randall's Island Urban Farm",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_725.PNG",
+        "question": "I am at now Bramha Karmali Waterfall.Show me the car route with the most scenic views to get to the Anjunem lake?",
+        "option_count": "4",
+        "options": "1.Take Bramha Karmali-Shelphem Rd and Nagargaon Rd to SH 1 in Massorde\n SH 1 to Karapur, Gowandiwada,ake Hathkhamba-Goa Rd to NH 748AA in Pariye,Budho Pigmy Agent onto NH 748AA \n\n\n2.Take Bramha Karmali-Shelphem Rd and Nagargaon Rd to SH 1 in Massorde,Querim VP\n\n3.How far is the public library from Central Park? if take the path Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem,Bramha Karmali-Shelphem Rd,Shree Datta Mandir,koparde to nagargoan road,Hedode ,edode Titha,Thane,hri Saibaba Temple onto NH 748AA,Jamblikade \n\n\n4.Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, Shree Datta Mandir , Nagargaon Rd,Valpoi-Honda Rd/Valpoi\u2013Birondem\u2013Advoi\u2013Pissurlem-Honda Rd, SH 1,village panchayat morlem, sattari onto NH 748AA,Hotel Shreyug Chinese Fast food & Restaurant ",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_725.PNG",
+        "question": "How far is the Anjunem lake from Bramha Karmali Waterfall\nif I take the following route: Head south on Bramha Karmali-Shelphem Rd/Nagargoan to Shelpem, continue on Bramha Karmali-Shelphem Rd past Shree Datta Mandir (on the left), then take Koparde to Nagargoan Road, Hedode, Edode Titha, Thane, Shri Saibaba Temple onto NH 748AA, and finally Jamblikade?",
+        "option_count": "4",
+        "options": "1)18.2 km\n2)17km\n3)25km\n4)38km",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_726.PNG",
+        "question": "Navigate me to the nearest golf course located near Spy Ninjas HQ",
+        "option_count": "4",
+        "options": "1.W Sahara Ave\n2. W Sahara Ave, S Durango Dr and S Rampart Blvd\n3.W Sahara Ave to S Rainbow Blvd in Spring Valley,W Charleston Blvd to S Durango Dr in Las Vegas,S Durango Dr, Alta Dr and S Rampart Blvd \n4. W Sahara Ave,S Durango Dr",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_727.PNG",
+        "question": "Navigate me to the nearest hospital  located near Dr. Muhammad Shahidullah Hall, Dhaka, Bangladesh?",
+        "option_count": "4",
+        "options": "1.Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani\n2.Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani\n3.Head south,Nazimuddin Rd/Suhrawardi Uddan Rd,A H M Kamruzzaman Sharani\n4. Mayor Mohammad Hanif Flyover to A H M Kamruzzaman Sharani",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_727.PNG",
+        "question": "How far is the nearest hospital from Dr. Muhammad Shahidullah Hall, Dhaka, Bangladesh if I take the following route: Head south on Nazimuddin Rd/Suhrawardi Uddan Rd, continue on Nazimuddin Rd/Suhrawardi Uddan Rd, and then take A H M Kamruzzaman Sharani?",
+        "option_count": "4",
+        "options": "1)400m\n2)410m\n3)450m\n4)405m",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_729.PNG",
+        "question": "How far is the Gharrafat Al Rayyan Health Center on Al Maszhabiliya St, Ar-Rayyan, Qatar, from Al Bidda Park in Doha, Qatar if I take the following route:\n\nHead northeast toward Al Corniche.\nDrive from Al Bidda/Majlis Al Taawon St, Khalifa St, and Doha Expressway to Al Rayyan Municipality.\nFollow Al Shamal Rd to Al Gharrafa Service Rd in Ar-Rayyan.\nTake Al Maszhabiliya St to Faisal Bin Muhammad Bin Thani.\nContinue on Faisal Bin Muhammad Bin Thani.",
+        "option_count": "4",
+        "options": "1)13.4 km\n2)15.2km\n3)15.3km\n4)12.4km",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_730.PNG",
+        "question": "How far is Rajpur Sonarpur in West Bengal, India, from Narayana Hospital, Chunavati, Andul Rd, Howrah, West Bengal, if I take the following route:\n\nContinue on Andul Rd (42 m, 13 sec).\nFollow Andul Rd and NH 12 to Alipore Rd in Alipore, Kolkata (32 min, 11.3 km).\nContinue on Alipore Rd to Barhans (32 min, 9.5 km).\nContinue straight past Union Bank ATM-Garia onto Garia Main Rd/Netaji Subhash Chandra Bose Rd (7 min, 2.1 km).\nPass by Jharna Ghee And Honey on the right.\"\n\n\n\n\n\n",
+        "option_count": "4",
+        "options": "1)23 km\n2)23.2km\n3)24.1km\n4)27.6km",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_501.PNG",
+        "question": "I am currently driving through New Elephant Road, and soon, I will be heading towards Laboratory Road for work. Which store should I go to buy clothes for my clothes for my convenience?",
+        "option_count": "4",
+        "options": "1)Sharmans Carpet\n2)Vibrant\n3)Southeast Bank Limited\n4)Gold Star Fabrics & Tailors",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_502.PNG",
+        "question": "I am now driving through haji abdul high road and my friend is standing at the moneshwer road. He likes to eat at bakery now which restaurant or bakery shop is better\u00a0to\u00a0meet\u00a0us?",
+        "option_count": "4",
+        "options": "1)Anondo Bakery\n2) Haque Bakery And Sweets\n3)Bashmoti Kacchi\n4) Olympia Bakery & Confectionery",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_503.PNG",
+        "question": "I'm driving along Garden Road. Right now, I have a list of things to do: buy perfume, get a phone, watch a movie, grab a bite to eat, and pick up some clothes. I'm looking for a place where I can tick off all these tasks at once because I don't want to keep parking the car multiple times.",
+        "option_count": "4",
+        "options": "1) The Raymond Shop\n2) Perfume World\n3) Apple Gadgets\n4) Bashundhara City Shopping Complex",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_506.PNG",
+        "question": "\nI am currently located at Srinagarindra the Princess Mother School in Lopburi, Thailand. My next destination is Wat Ban Mai Thung Setthi in Phetchabun. Along the way, I would like to make a stop at a temple to pray. Could you please suggest one that is conveniently situated?",
+        "option_count": "4",
+        "options": "1.Wat Sap Somboon\n2.Wat Nong Suang Phromchan\n3.Wat Khok Hin\n4.Wat Noen Bot",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_508.PNG",
+        "question": "\nI'm currently at The Cartoon Museum and later I plan to go to Dominion Theatre to watch a movie. My friend is waiting for me at ISKCON London Radha-Krishna Temple, and they also want to buy some clothes. Can you recommend a shop suitable for they?\n",
+        "option_count": "4",
+        "options": "1.Next\n2.Rathbone Square\n3.Primark\n4.UNIQLO",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_510.PNG",
+        "question": "I'm currently attending classes at Ormiston Beachcroft Academy. After class, I'll be heading to my hotel, the London Marriott Hotel Maida Vale. Meanwhile, I plan to visit St Mark's Church on Hamilton Terrace for prayer. Afterward, I'll need to visit a pharmacy. Can you suggest a suitable one?",
+        "option_count": "4",
+        "options": "1.St",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_511.PNG",
+        "question": "I'm currently at OVO Arena Wembley and I'm planning to head to Housejobber next. While en route, I'd like to grab dinner. I have a craving for buffalo meat. Could you recommend a restaurant where I can indulge in some buffalo dishes for dinner?",
+        "option_count": "4",
+        "options": "1.La Regina Wembley\n2.El Bandido\n3.Fatburger & Buffalo's\n4.Las Iguanas - London - Wembley",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_564.PNG",
+        "question": "I\u2019m traveling from Feni to Noakhali and interested in local markets. Are there any markets \nalong the way where I can stop and buy fresh produce or local goods?\n",
+        "option_count": "4",
+        "options": "1)Mridher Hat\n2)Danamiar Bazar\n3)Noakhali Super Market\n4)Senbag Bazar",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_566.PNG",
+        "question": "I\u2019m on a road trip from Rajshahi to Khulna. Are there any popular local eateries on roadside\n restaurants along the way where I can stop for a traditional meal?",
+        "option_count": "4",
+        "options": "1)Shajjad Hotel & Restora\n2)Momotaj Modern Agro Ltd\n3)Good VAI Good vai\n4)Hafiz",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_567.PNG",
+        "question": "I am driving from Comilla to Mymensingh and need to pick up some medication. Is there a pharmacy along\n the way where I can stop?",
+        "option_count": "4",
+        "options": "1)\u09b0\u09df\u09c7\u09b2 \u09ab\u09be\u09b0\u09cd\u09ae\u09be (Royal Pharma)\n2)Sotota Medical Hall\n3)Maa Medicine Point\n\n4)Madinah Pharmacy",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_582.PNG",
+        "question": "I  am going to New market from Klayanpur bus stand now. On the path way I want to visit a Brac Bank Branch for depositing some money. Suggest me a Brack bank on tha path way.",
+        "option_count": "4",
+        "options": "1. Brac Bank Limited Shymoli Branch\n2. Brac Bank Satmasjid Road\n3. Brac Bank Atm Booth Mirpur Road\n4. Brac Bank head Office",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_584.PNG",
+        "question": "I will visit my office ICT tower, Agargaon Dhaka from Adabor 10. I will go via Shymoli by Rickshaw. Before attending offiice I want to visit an eye hospital to test my eye sights. Please suggest me an eye hospital.",
+        "option_count": "4",
+        "options": "1. National Institute of Opthalmology & Hospital (NIOH)\n2. Aki Nahar Eye Hospital\n3. Ispahani Islamia Eye Institute and Hospital \n4. OCUNOVA EYE HOSPITAL Ltd.",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_586.PNG",
+        "question": "I am going to meet my friend at Dinajpur by my car. I need to find a patrol pump after crossing the bogura. Please find one for me.",
+        "option_count": "4",
+        "options": "1. Mohasthan Filling station\n2. M/S uttoron filling station\n3. Rubel LPG auto gas station\n4. M.S Bimimoy Patrolium",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_588.PNG",
+        "question": "I'm currently at Business Bay Metro Station, and it's 11 PM. I had lunch at Feras Al Diyafa Sweets at 3 PM, and I'm planning to head to Bulgari Resort Dubai at 8 PM. I usually have dinner around 10 PM. Can you recommend a suitable restaurant for dinner?",
+        "option_count": "4",
+        "options": "1)Atmosphere Burj Khalifa\n2)Wingstop Baysquare\n3)Feras Al Diyafa Sweets\u062d\u0644\u0648\u064a\u0627\u062a \u0641\u0631\u0627\u0633\n4)Mara Lounge Restaurant",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_590.PNG",
+        "question": "I'm heading to Hazrat Shahjalal International Airport from Mohammadpur Bus Stand, Dhaka. I need to buy some groceries and would prefer to pick them up towards the end of my route. Can you suggest a suitable shop?",
+        "option_count": "4",
+        "options": "1)Ma Departmental Store\n2)Jaman grocery\n3)Bashundhara Grocery Mart\n4)Shwapno (Gulshan-2) groceries",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_591.PNG",
+        "question": "I\u2019ve just dropped off my friend at Dhaka International Airport. Now, I'm heading back home near the Mohammadpur bus stand in Dhaka by Uber. On the way, I'd like to withdraw some money from a government bank's ATM booth after Kurmitola. Can you suggest a suitable one?",
+        "option_count": "4",
+        "options": "1. Sonali Bank Limited | ATM Booth\n2. Trust Bank Limited | ATM Booth\n3. BRAC Bank Limited | ATM Booth\n4. \nMutual Trust Bank Limited | ATM Booth",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_592.PNG",
+        "question": "I'm staying at Hotel Nandini and heading to Dhanmondi Abahani Field to meet my friend for a game. I usually get my treatment at Square Hospital and plan to check my blood pressure after playing. Can you suggest a suitable hospital for this?",
+        "option_count": "4",
+        "options": "1. Square Hospital\n2. Kacchi Bhai - Dhanmondi\n3.Bangladesh Medical College Hospital\n4. IBN Sina Specialized Hospital",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_592.PNG",
+        "question": "I'm staying at Hotel Nandini and heading to Dhanmondi Abahani Field to meet my friend for a game. I usually get my treatment at Square Hospital and plan to check my blood pressure when I return to the hotel. Can you suggest a suitable hospital for this?",
+        "option_count": "4",
+        "options": "1. Square Hospital\n2. Kacchi Bhai - Dhanmondi\n3.Bangladesh Medical College Hospital\n4. IBN Sina Specialized Hospital",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_593.PNG",
+        "question": "I\u2019m an undergraduate student at BAF Shaheen College Dhaka and currently at Shaheed Suhrawardy Medical College and Hospital. I\u2019ll be heading to my campus at 4 PM, and we\u2019re planning to visit a museum as close as possible to the campus. Can you suggest a suitable one?",
+        "option_count": "4",
+        "options": "1)Liberation War Museum\n2)Bangabandhu Military Museum\n3)Sainik Club Cinema Hall\n4)Bangladesh Air Force Museum",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_594.PNG",
+        "question": "I live in Shyamoli and need to get my kidney checked on the way to my office at ICT Tower, Dhaka. Can you suggest a suitable place for this?",
+        "option_count": "4",
+        "options": "1.Ibn Sina Medical College Hospital\n2. National Institute of Kidney Diseases & Urology (NIKDU)\n3.National Institute of CardioVascular Diseases (NICVD)\n4.Shaheed Suhrawardy Medical College and Hospital",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_594.PNG",
+        "question": "I live in Shyamoli and need to get my heart checked on the way to my office at ICT Tower, Dhaka. Can you suggest a suitable place for this?",
+        "option_count": "4",
+        "options": "1.Ibn Sina Medical College Hospital\n2. National Institute of Kidney Diseases & Urology (NIKDU)\n3.National Institute of CardioVascular Diseases (NICVD)\n4.Shaheed Suhrawardy Medical College and Hospital",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_595.PNG",
+        "question": "My house is in Shyamoli, Dhaka. I regularly take my daughter to her school in Shekhertek 12. Before heading back home, I'd like to play at a playground in a park, have some snacks, and enjoy watching palm trees. Can you suggest a suitable park for this?",
+        "option_count": "4",
+        "options": "1. Jannatbag Park\n2. Jannatbag Childrens' Garden and Eidgah\n3. Shymoli Park\n4. Johuri Moholla Shishu Park",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_595.PNG",
+        "question": "My house is in Shyamoli, Dhaka. I regularly take my daughter to her school in Shekhertek 12. Before heading back home, she wants to visit a park to play. Can you suggest a suitable park for this?",
+        "option_count": "4",
+        "options": "1. Jannatbag Park\n2. Jannatbag Childrens' Garden and Eidgah\n3. Shymoli Park\n4. Johuri Moholla Shishu Park",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_596.PNG",
+        "question": "We'll visit my cousin's house in Halshohor, Chittagong, this Sunday, then go to Chittagong Port with family. I also need to check my health at Islami Bank Hospital and refill my car's CNG. Can you suggest a good gas station nearby?",
+        "option_count": "4",
+        "options": "1. Nimtola Petrol Pump\n2. Standard Auto Service (Fokirhat Petrol Pump)\n3. Salim & Sons CNG Filling Station\n4. Xpeed CNG Station",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_597.PNG",
+        "question": "I\u2019m driving from Bogura to Dinajpur to meet my friend. I need to refuel my car towards the end of the journey. Can you suggest a suitable filling station along the way?",
+        "option_count": "4",
+        "options": "1. Fire Service and Civil Defense Ghoraghat\n2. Navana CNG Filling Station\n3. Elite Filling Station\n4. M/S Bimimoy Petroleum",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_597.PNG",
+        "question": "I\u2019m driving from Bogura to Dinajpur to meet my friend. I need to refuel my car towards the starting of the journey. Can you suggest a suitable filling station along the way?",
+        "option_count": "4",
+        "options": "1. Fire Service and Civil Defense Ghoraghat\n2. Navana CNG Filling Station\n3. Elite Filling Station\n4. M/S Bimimoy Petroleum",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1101.PNG",
+        "question": "How to get to St Johannes kyrkog\u00e5rd from Crafoord Place Hostel via city church?",
+        "option_count": "4",
+        "options": "1.Crafoord Place Hostel\nTurn left onto Tegn\u00e9rgatan\nTurn right onto Upplandsgatan\nTurn left onto Tegn\u00e9rlunden\nTurn right onto Tegn\u00e9rgatan\nTurn left onto Holl\u00e4ndargatan\nTurn left onto R\u00e5dmansgatan\n\nGast Cafe\nHead southwest on R\u00e5dmansgatan toward Drottninggatan\nTurn left at the 3rd cross street onto Upplandsgatan\nTurn left onto Tegn\u00e9rlunden\nTurn right onto Tegn\u00e9rgatan\nTurn right onto D\u00f6belnsgatan\n\nSt Johannes kyrkog\u00e5rd \n\n2. Crafoord Place Hostel\nTurn left onto Tegn\u00e9rgatan\nTurn right onto Upplandsgatan\nTurn left onto Tegn\u00e9rlunden\nTurn right onto Tegn\u00e9rgatan\nTurn left onto Holl\u00e4ndargatan\nTurn left onto R\u00e5dmansgatan\n\nCity Church\nHead southwest on R\u00e5dmansgatan toward Drottninggatan\nTurn left at the 3rd cross street onto Upplandsgatan\nTurn left onto Tegn\u00e9rlunden\nTurn right onto Tegn\u00e9rgatan\nTurn right onto D\u00f6belnsgatan\n\nSt Johannes kyrkog\u00e5rd\n3. Crafoord Place Hostel\nFollow H\u00e4lsobrunnsgatan and Torsgr\u00e4nd to Torsgatan\nContinue on Torsgatan to Norrmalm\nTake Barnhusgatan to Adolf Fredriks kyrkogata\n\nCity Church\nHead northeast on Adolf Fredriks kyrkogata toward Holl\u00e4ndargatan\nTurn left onto Sveav\u00e4gen\nTurn right onto Tegn\u00e9rgatan\nTurn right onto D\u00f6belnsgatan\nKeep left to stay on D\u00f6belnsgatan\n\nSt Johannes kyrkog\u00e5rd\n4. Crafoord Place Hostel\nFollow H\u00e4lsobrunnsgatan and Torsgr\u00e4nd to Torsgatan\nContinue on Torsgatan to Norrmalm\nTake Barnhusgatan to Adolf Fredriks kyrkogata\n\nCity Church\nTurn left onto Tegn\u00e9rgatan\nTurn right onto Upplandsgatan\nTurn left onto Tegn\u00e9rlunden\nTurn right onto Tegn\u00e9rgatan\nTurn left onto Holl\u00e4ndargatan\nTurn left onto R\u00e5dmansgatan\n\nSt Johannes kyrkog\u00e5rd",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1102.PNG",
+        "question": "Which is the shortest route to go to F\u00e6llesBo from Bravo Touyrs?",
+        "option_count": "4",
+        "options": "1. Via Bethaniagade\n2. Via Herninglund\n3. Via Bredgade\n4. Via M\u00f8llegade",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1105.PNG",
+        "question": "How to get to Sierra Leone Grammer School from Seabird Water Taxi after having lunch at Cole Street Guesthouse?",
+        "option_count": "4",
+        "options": "1. Seabird Water Taxi\nHead northwest on High Broad St toward Andrews St\nTurn left onto Andrews St\nContinue onto Andrew St\nTurn right onto Macaulay St\nSierra Leone Grammar School\nHead northeast on Macaulay St\nTurn left at the 1st cross street toward Cole St\nTurn left at the 2nd cross street onto Cole St\nCole Street Guesthouse\n2. Seabird Water Taxi\nHead northwest on High Broad St toward Andrews St\nTurn left onto Andrews St\nContinue onto Andrew St\nTurn right onto Macaulay St\nSierra Leone Grammar School\n3.Seabird Water Taxi\nHead northwest on High Broad St toward Andrews St\nTurn left onto Macaulay St\nSierra Leone Grammar School\nHead northeast on Macaulay St\nTurn left at the 1st cross street toward Cole St\nTurn left at the 2nd cross street onto Cole St\nCole Street Guesthouse\n4. Seabird Water Taxi\nHead northwest on High Broad St toward Andrews St\nTurn right toward Cole St\nTurn left at the 1st cross street onto Cole St\nCole Street Guesthouse\nHead northeast on Cole St toward Damba Rd\nTurn right at the 1st cross street toward Macaulay St\nTurn right at the 2nd cross street onto Macaulay St\nSierra Leone Grammar School",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1106.PNG",
+        "question": "Which mosque is in the route from UTC Kedah to Taman Dalima?",
+        "option_count": "4",
+        "options": "1. Masjid Zahir \n2. Masjid Nagore\n3. Masjid Al-Irfan\n4. Mashjid Al-Bukhari",
+        "answer": "3",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1107.PNG",
+        "question": "Which route to take to go from Comfort Hotel to Svane Kjokkenet Bergen?",
+        "option_count": "4",
+        "options": "1. Beffen Route accross river\n2. C. Sundts gate\n3. Stolegaten\n4. Route 577",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1110.PNG",
+        "question": "Which restaurents is seen on the way through Woloska?",
+        "option_count": "4",
+        "options": "1. Karachi Restaurant\n2. Bezownia\n3. Restauracja Locale\n4. Prosto z pieca",
+        "answer": "4",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1111.PNG",
+        "question": "Which restaurent is on the left side of the route from Metro El Golf to Metro Tobalaca L1?",
+        "option_count": "4",
+        "options": "1. Boki Restaurant\n2. Tacu Tacu Restaurant\n3. Ambrosia Bistro\n4. Restaurant Dominica",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1112.PNG",
+        "question": "On what side does St mary's church fall on the route from Howth Market to TMG Co",
+        "option_count": "4",
+        "options": "1. Right\n2. Left\n3. None\n4. Not found",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1115.PNG",
+        "question": "Which museum is seen on the way from Museum du doudou and Theatre Royal Mons?",
+        "option_count": "4",
+        "options": "1. Beaux-Arts Mons\n2. Belfry of Mons\n3. Salle Saint-Georges\n4. Decorative Arts Museum",
+        "answer": "2",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1116.PNG",
+        "question": "Which road to take to go from Denizli Pamukkale \u0130zci Evi to Melrose Viewpoint Hotel?",
+        "option_count": "4",
+        "options": "1. Y\u00f6r\u00fck Sk\n2. Mehmet\u00e7ik Sk\n3. Pala Sk\n4. Kad\u0131o\u011flu Cd",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_1127.PNG",
+        "question": "Which restaurant can be found on the way from Hellenic Maritime Meseum to Beach Freatida?",
+        "option_count": "4",
+        "options": "1. Pisina\n2. Imerovigli\n3. To Grigoro\n4. korwnaki piraeus",
+        "answer": "1",
+        "classification": "routing"
+    },
+    {
+        "image_path": "Vdata/ID_901.PNG",
+        "question": "I am at the kholamora ghat, where is the nearest rail station",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Komlapur Rail Station\n2) Airport Rail Station\n3) Gazipur Rail Sation\n4) M Monsur Ali Rail Station ",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_902.PNG",
+        "question": "I have 1 hr at my hand, i am at chaoyang treatment rescue center, there is the closest cinema theatre that can be reached within my time",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Regal Palace Thetre Restaurant\n2) Dadi Cinema Fatou Yonghui Branch\n3) \u66d9\u5149\u7535\u5f71\u9662\n4) Dongrong International Film City",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_903.PNG",
+        "question": "Which one is the cricket stadium?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) CHENGUANGCUN\n2) Mirpur Stadium\n3) Ounong Modeling\n4) Sujia Hewan",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_904.PNG",
+        "question": "How go go from Lan Zhou Bin He Er Tong Gong Yuan to Yunzhan Meat Store",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) \tHead west\n\tSharp left to stay on \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn right onto \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn left toward \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tContinue straight onto \u5170\u5de5\u576a\u8def/\u5357\u73af\u4e2d\u8def/G212/G248/G312\n\tSharp left to stay on \u5170\u5de5\u576a\u8def/\u5357\u73af\u4e2d\u8def/G212/G248/G312\n2)\tHead west\n\tTurn left toward \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn right onto \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tSharp left to stay on \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tContinue straight onto \u5170\u5de5\u576a\u8def/\u5357\u73af\u4e2d\u8def/G212/G248/G312\n\tSharp left to stay on \u5170\u5de5\u576a\u8def/\u5357\u73af\u4e2d\u8def/G212/G248/G312\n3)\tHead west\n\tTurn left toward \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn right onto \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn left to stay on \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn right to stay on \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn left onto \u6b66\u5a01\u8def\n\tTurn left to stay on \u6b66\u5a01\u8def\n\tTurn left onto \u664f\u5bb6\u576a\u5317\u8def\n\tTurn right\n\tTurn left\n4)\tHead east\n\tTurn right toward \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tTurn left onto \u5357\u73af\u4e2d\u8def/\u5efa\u897f\u4e1c\u8def/G312\n\tSharp right onto \u664f\u5bb6\u576a\u4e1c\u8def/G212/G248\n\tTurn right onto \u664f\u5bb6\u576a\u5317\u8def\n\tTurn left",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_905.PNG",
+        "question": "Here is the best school?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) FAFANG TOWN\n2) HUAI'AN TOWN\n3) JINSHAXIAN\n4) JINTAXIAN",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_906.PNG",
+        "question": "Where is the nearest hospital?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Beilin District Xicheng Yiyang Service Office\n2) Renhe Comprehensive Department\n3) Suihua Zhuanwachang Health Clinic\n4) Zhangyunpeng Clinic",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_907.PNG",
+        "question": "Which hospital is best for kidney stone, i live in the Fourah Bay area",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Ola During Children's Hospital\n2) Children's Hospital\n3) Bishop John Secondary School\n4) Easton Hospital",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_908.PNG",
+        "question": "Which way should be efficient while visit from Abis bus station to KONO so that Victoria park is on the way",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1)Head southeast on Rawdon St toward Garrison St\n  Slight right onto Regent Rd\n  Turn left at the 2nd cross street onto Regent St\n  Turn right onto Bambana St\n  Turn left onto Annie Walsh St\n  Turn left onto Upper Mountain Cut\n  Turn right onto Lawson Ln\n2) Head southeast on Rawdon St toward Garrison St\n   Slight right onto Regent Rd\n   Turn left at the 1st cross street onto Goderich Rd\n   Turn right onto Bambana St\n   Turn left onto Annie Walsh St\n   Turn left onto Upper Mountain Cut\n   Turn right onto Lawson Ln\n3) Head southeast on Rawdon St toward Garrison St\n   Turn left onto Garrison St\n   Slight right onto Sanni Abacha St\n4) Head west on British Council Road toward Gloucester St\n   Turn right onto Gloucester St\n   Turn right onto Rokel St\n   Turn left onto Goderich Rd\n   Turn left onto Kissy Rd",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_909.PNG",
+        "question": "Where is the nearest airport, i am currently at Selbourne Park?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Kumalo Aerodrome\n2) Bangkok Airport\n3) Diplomat Chauffeur (Pvt) Ltd\n4) Kumalo Aerobrome Terminal Building",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_910.PNG",
+        "question": "Which is the closest park to walk, i am currently at Strathcona Oil Refinery",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Rossdale Water Treatment Plant\n2) Edmonton Fire Station 21\n3) Rossdale Linear Park\n4) Rossdale playground",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_911.PNG",
+        "question": "Where can i get vegeterian food and mexican food?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Mal\u00f3n\n2) Coiron Restaurant\n3) Promofiesta Norte\n4) 285 Restaurant & Bar",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_912.PNG",
+        "question": "Which school is closed to Club Atl\u00e9tico Puerto Comercial?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Secondary school No. 25\n2) PROVINCIAL SCHOOL No. 67 TOMAS ESPORA\n3) Province of Buenos Aires SCHOOL No. 507\n4) SCHOOL No.5 Province of Buenos Aires",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_913.PNG",
+        "question": "Where is the jetty?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Beside Azmeri school\n2) Left of Anju pharma\n3) Left of monserrat \n4) Right to Anju pharma",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_914.PNG",
+        "question": "How nuch time it would take to go to Igreja Nossa Senhora Da Concei\u00e7\u00e3o do Coroadinho - Matriz?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) 1hr\n2) 2 hr\n3) 2.5 hr\n4) 4 hr",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_915.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Albrook Airport\n2) Panama Pacific International Airport\n3) Helipuerto\n4) Aeropuerto internacional",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_916.PNG",
+        "question": "Which coffee shop is near Lukhmanovskiy Park?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) \u0428\u0430\u0448\u043b\u044b\u0447\u043d\u044b\u0439 \u0434\u0432\u043e\u0440\u0438\u043a\n2) Coffee Cantata\n3) \u0422\u043e\u0447\u043a\u0430 Coffee\n4) Coffee Combo",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_917.PNG",
+        "question": "How to get to Vektor from \u0410\u0432\u0442\u043e\u0441\u0435\u0440\u0432\u0438\u0441 \u0414\u0440\u0430\u0439\u0432 \u041b\u044e\u0431\u043b\u0438\u043d\u043e?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1)Follow \u0421\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0425\u043e\u0440\u0434\u0430 to \u043f\u0440. \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 3723/\u0443\u043b. \u0428\u043e\u0441\u0441\u0435\u0439\u043d\u0430\u044f. \n  Exit from \u0421\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0425\u043e\u0440\u0434\u0430\n  Continue on \u0443\u043b. \u0428\u043e\u0441\u0441\u0435\u0439\u043d\u0430\u044f to your destination\n2) Head northwest toward \u0443\u043b. \u041f\u0435\u0440\u0435\u0440\u0432\u0430\nTurn right toward \u0443\u043b. \u041f\u0435\u0440\u0435\u0440\u0432\u0430\nTurn left onto \u0443\u043b. \u041f\u0435\u0440\u0435\u0440\u0432\u0430\nTurn right onto \u043f\u0440. \u0413\u0440\u0430\u0444\u0438\u0442\u043d\u044b\u0439/\u0443\u043b. \u041f\u0435\u0440\u0435\u0440\u0432\u0430\nContinue to follow \u043f\u0440. \u0413\u0440\u0430\u0444\u0438\u0442\u043d\u044b\u0439\nContinue onto \u0443\u043b. \u0418\u043b\u043e\u0432\u0430\u0439\u0441\u043a\u0430\u044f\nTurn right onto \u0443\u043b. \u0428\u043e\u0441\u0441\u0435\u0439\u043d\u0430\u044f\nSlight left\nKeep left\nKeep right\nTake the exit toward \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 4294\nTake the ramp to \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 4294\nContinue onto \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 4294\nGo through 1 roundabout\nTurn right\nTurn right\nTurn right\nTurn right\nTurn left\nTurn right\n3) Head southwest toward \u0448. \u041a\u0430\u0448\u0438\u0440\u0441\u043a\u043e\u0435\nTake \u043f\u0440-\u0442 \u0410\u043d\u0434\u0440\u043e\u043f\u043e\u0432\u0430 and \u043f\u0440. \u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0438\u0439 to \u0443\u043b. \u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f\nTake \u0443\u043b. \u0411\u0435\u0445\u0442\u0435\u0440\u0435\u0432\u0430 to \u0443\u043b. \u0421\u0435\u0432\u0430\u043d\u0441\u043a\u0430\u044f\nExit from \u0443\u043b. \u0421\u0435\u0432\u0430\u043d\u0441\u043a\u0430\u044f\nTake \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f \u041a\u0443\u0440\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f/\u043f\u0440-\u0434 4386-\u0439 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439, \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 1481 and \u043f\u0440\u043e\u0435\u0437\u0434 \u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 4294 to your destination\n4) Head southwest\nTurn left\nSlight right\nTurn right",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_918.PNG",
+        "question": "Which school is closed to Club Atl\u00e9tico Puerto Comercial?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Secondary school No. 25\n2) PROVINCIAL SCHOOL No. 67 TOMAS ESPORA\n3) Province of Buenos Aires SCHOOL No. 507\n4) SCHOOL No.5 Province of Buenos Aires",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_919.PNG",
+        "question": "How much time would it take to go South African Embassy by bus from parliament house?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) 50 min\n2) 40 min\n3) 22 min\n4) 33 min",
+        "answer": "0",
+        "classification": "unanswerable"
+    },
+    {
+        "image_path": "Vdata/ID_920.PNG",
+        "question": "I am currently at Panama Canal Museum, which is the nearest airport?",
+        "option_count": "4",
+        "options": "0) Unanswerable\n1) Albrook Airport \n2) Panama Pacific International Airport \n3) Helipuerto \n4) Aeropuerto internacional",
+        "answer": "0",
+        "classification": "unanswerable"
+    }
+]
